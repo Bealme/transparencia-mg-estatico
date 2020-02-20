@@ -1,6 +1,14 @@
 {slider O que é o Portal|closed|icon}
 
-O Portal da Transparência é uma iniciativa do Governo do Estado de Minas Gerais que propicia o controle social pelos cidadãos ao disponibilizar dados e informações públicas do Estado e de Municípios, além de oferecer ferramenta para solicitações de informações por meio da Lei de Acesso a Informação.
+O Portal da Transparência é uma iniciativa do Governo do Estado de Minas Gerais que disponibiliza dados e informações públicas de:
+
+* [órgãos e entidades da administração pública estadual direta e indireta](https://www.mg.gov.br/estrutura-governamental)(fundos, fundações, autarquias e empresas estatais dependentes),
+
+* outros poderes do Estado,
+
+* Municípios,
+
+* além de oferecer ferramenta para solicitações de informações por meio da Lei de Acesso a Informação.
 
 A transparência tem papel importante no combate à corrupção, ao induzir maior responsabilidade por parte dos gestores públicos e controle e divulgação das ações por cidadãos, pesquisadores e mídia.
 
