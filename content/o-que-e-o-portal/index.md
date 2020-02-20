@@ -14,21 +14,22 @@ A transparência tem papel importante no combate à corrupção, ao induzir maio
 
 O Portal da Transparência contem dados e informações sobre os seguintes assuntos:
 
-Gastos/despesas públicos dos Poderes do Estado;
-Receitas ou arrecadação dos Poderes do Estado;
-Dívidas externa e interna do Estado – montante, amortizações e juros;
-Remuneração dos servidores do Poder Executivo;
-Despesa com pessoal dos Poderes do Estado;
-Despesas com diárias de viagem dos Poderes do Estado;
-Transferências de impostos a municípios;
-Convênios;
-Compras, aquisições e contratos dos Poderes do Estado;
-Planejamento e resultados dos Poderes do Estado;
-Informações socioeconômicas do Estado;
-Prestação de contas do governador;
-Dados Abertos;
-Transparência dos municípios;
-Lei de Acesso a Informação
+* Gastos/despesas públicos dos Poderes do Estado;
+
+* Receitas ou arrecadação dos Poderes do Estado;
+* Dívidas externa e interna do Estado – montante, amortizações e juros;
+* Remuneração dos servidores do Poder Executivo;
+* Despesa com pessoal dos Poderes do Estado;
+* Despesas com diárias de viagem dos Poderes do Estado;
+* Transferências de impostos a municípios;
+* Convênios;
+* Compras, aquisições e contratos dos Poderes do Estado;
+* Planejamento e resultados dos Poderes do Estado;
+* Informações socioeconômicas do Estado;
+* Prestação de contas do governador;
+* Dados Abertos;
+* Transparência dos municípios;
+* Lei de Acesso a Informação
 
 
 {slider Manual de Navegação|icon}
