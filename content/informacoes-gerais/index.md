@@ -1,4 +1,12 @@
-O Portal da Transparência do Estado de Minas Gerais contém informações sobre órgãos e entidades dos outros poderes nas seções de Despesa, Receita e Planejamento e Resultados. Além desses, abaixo são indicados outros links de interesse sobre transparência:
+Além das informações sobre [órgãos e entidades da administração pública estadual direta e indireta](https://www.mg.gov.br/estrutura-governamental), o Portal da Transparência do Estado de Minas Gerais também contempla os outros poderes nas seções de
+
+* [Despesa](http://www.transparencia.mg.gov.br/despesa-estado),
+
+* [Receita](http://www.transparencia.mg.gov.br/estado-receita) e
+
+* [Planejamento e Resultados](http://www.transparencia.mg.gov.br/planejamento-e-resultados).
+
+Abaixo são indicados links de interesse sobre transparência de outras áreas temáticas afins e que não estão incluídas no escopo acima discriminado:
 
 Portais da Transparência dos demais poderes em âmbito estadual
 Assembleia Estadual de Minas Gerais
