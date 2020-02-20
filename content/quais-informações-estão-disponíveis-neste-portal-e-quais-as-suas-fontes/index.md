@@ -1,17 +1,29 @@
 {slider Quais informações estão disponíveis neste Portal e quais as suas fontes?|closed|icon}
 
-Gastos/despesas públicos dos Poderes do Estado - Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
-Receitas ou arrecadação dos Poderes do Estado; Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
-Dívidas externa e interna do Estado – montante, amortizações e juros; Secretaria de Estado da Fazenda (SEF) e Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
-Remuneração dos servidores do Poder Executivo (do ano corrente, na seção Pessoal; dos anos anteriores, na seção de Dados Abertos) - órgãos e entidades e Sistema de Administração de Pessoal (SISAP)
-Despesa com pessoal dos Poderes do Estado - Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
-Despesas com diárias de viagem dos Poderes do Estado - Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
-Transferências de impostos a municípios - Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
-Convênios – Sistema de Gestão de Convênios (SIGCon);
-Compras, aquisições e contratos dos Poderes do Estado - Sistema Integrado de Administração de Materiais e Serviços do Estado de Minas Gerais (SIAD/MG);
-Planejamento e resultados dos Poderes do Estado – Sistema de Informaçoes Gerenciais e de Planejamento (SIGPLAN-MG), Sistema Orçamentário (SISOR) e Secretaria de Estado de Planejamento e Gestão
-Informações socioeconômicas do Estado – FAPEMIG e Secretaria de Estado de Planejamento e Gestão (SEPLAG)
-Transparência dos municípios – arquivos enviados pelos municípios
+As informações disponibilizadas neste portal de [órgãos e entidades da administração pública estadual direta e indireta](https://www.mg.gov.br/estrutura-governamental) (incluindo fundos, fundações, autarquias e empresas estatais dependentes) referem-se a: 
+
+* Gastos/despesas públicos dos Poderes do Estado - Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
+
+* Receitas ou arrecadação dos Poderes do Estado; Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
+
+* Dívidas externa e interna do Estado – montante, amortizações e juros; Secretaria de Estado da Fazenda (SEF) e Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
+
+* Remuneração dos servidores do Poder Executivo (do ano corrente, na seção Pessoal; dos anos anteriores, na seção de Dados Abertos) - órgãos e entidades e Sistema de Administração de Pessoal (SISAP)
+
+* Despesa com pessoal dos Poderes do Estado - Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
+
+* Despesas com diárias de viagem dos Poderes do Estado - Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
+
+* Transferências de impostos a municípios - Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
+
+* Convênios – Sistema de Gestão de Convênios (SIGCon);
+
+* Compras, aquisições e contratos dos Poderes do Estado - Sistema Integrado de Administração de Materiais e Serviços do Estado de Minas Gerais (SIAD/MG);
+
+* Planejamento e resultados dos Poderes do Estado – Sistema de Informaçoes Gerenciais e de Planejamento (SIGPLAN-MG), Sistema Orçamentário (SISOR) e Secretaria de Estado de Planejamento e Gestão
+
+* Informações socioeconômicas do Estado – FAPEMIG e Secretaria de Estado de Planejamento e Gestão (SEPLAG)
+
 {slider No Portal da Transparência são divulgadas todas as verbas do salário do servidor público?|closed|icon}
 
 Não.
