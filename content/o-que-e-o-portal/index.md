@@ -1,21 +1,20 @@
 {slider O que é o Portal|closed|icon}
 
-O Portal da Transparência é uma iniciativa do Governo do Estado de Minas Gerais que disponibiliza dados e informações públicas de:
+O Portal da Transparência é uma iniciativa do Governo do Estado de Minas Gerais, sob a gestão da Controladoria-Geral do Estado que disponibiliza dados e informações públicas de:
 
-* [órgãos e entidades da administração pública estadual direta e indireta](https://www.mg.gov.br/estrutura-governamental)(fundos, fundações, autarquias e empresas estatais dependentes),
+* [órgãos e entidades da administração pública estadual direta e indireta](https://www.mg.gov.br/estrutura-governamental) (Fundos, Fundações Públicas, Autarquias e Empresas Estatais Dependentes);
 
-* outros poderes do Estado,
+* outros poderes do Estado;
 
-* Municípios,
+* municípios;
 
 * além de oferecer ferramenta para solicitações de informações por meio da Lei de Acesso a Informação.
 
-A transparência tem papel importante no combate à corrupção, ao induzir maior responsabilidade por parte dos gestores públicos e controle e divulgação das ações por cidadãos, pesquisadores e mídia.
+A transparência tem papel importante no combate à corrupção, ao induzir maior responsabilidade e controle por parte dos gestores públicos ao divulgar suas ações para cidadãos, órgãos de controle, pesquisadores e mídia.
 
 O Portal da Transparência contem dados e informações sobre os seguintes assuntos:
 
-* Gastos/despesas públicos dos Poderes do Estado;
-
+* Gastos/despesas públicas dos Poderes do Estado;
 * Receitas ou arrecadação dos Poderes do Estado;
 * Dívidas externa e interna do Estado – montante, amortizações e juros;
 * Remuneração dos servidores do Poder Executivo;
@@ -28,7 +27,6 @@ O Portal da Transparência contem dados e informações sobre os seguintes assun
 * Informações socioeconômicas do Estado;
 * Prestação de contas do governador;
 * Dados Abertos;
-* Transparência dos municípios;
 * Lei de Acesso a Informação
 
 
@@ -42,59 +40,43 @@ Esse Manual visa orientar o cidadão a navegar pelo Portal da Transparência, fo
 
 A Lei de Acesso à Informação, Lei Federal nº 12.527 de 2011, que entrou em vigor a partir do dia 16 de maio de 2012, regulamenta o direito constitucional de acesso dos cidadãos às informações públicas, sendo aplicável aos três Poderes da União, dos Estados, do Distrito Federal e dos Municípios. O Portal da Transparência do Estado de Minas Gerais disponibiliza as informações, conforme exige a Lei de Acesso à Informação, para qualquer cidadão ter acesso sobre os seguintes itens:
 
-Dados institucionais dos órgãos e entidades do Poder Executivo Estadual;
-Dados gerais para o acompanhamento de programas e ações de órgãos e entidades;
-Inspeções, auditorias, prestações e tomadas de contas realizadas pelos órgãos de controle interno e externo;
-Registros de quaisquer repasses ou transferências de recursos financeiros;
-Registros das despesas;
-Procedimentos licitatórios, inclusive os respectivos editais e resultados, bem como todos os contratos celebrados;
-Formas de solicitação de informação.
+- Dados institucionais dos órgãos e entidades do Poder Executivo Estadual;
+- Dados gerais para o acompanhamento de programas e ações de órgãos e entidades;
+- Inspeções, auditorias, prestações e tomadas de contas realizadas pelos órgãos de controle interno e externo;
+- Registros de quaisquer repasses ou transferências de recursos financeiros;
+- Registros das despesas;
+- Procedimentos licitatórios, inclusive os respectivos editais e resultados, bem como todos os contratos celebrados;
+- Formas de solicitação de informação.
+
 Tendo em vista a necessidade de adequação dos mecanismos de informação e transparência do Poder Executivo do Estado de Minas Gerais às normas da Lei de Acesso à Informação – Lei Federal nº 12.527 –, o Governo de Minas publicou o Decreto Estadual n° 45.969, de 24 de maio de 2012, que regulamenta o acesso à informação no âmbito do Poder Executivo Estadual.
 
-Lei Nº 12.527, de 18 de novembro de 2011 – Regulamenta o direito constitucional de acesso às informações públicas.
+- [Lei Nº 12.527, de 18 de novembro de 2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm) – Regulamenta o direito constitucional de acesso às informações públicas.
 
-Decreto 45.969, de 24 de maio de 2012 – Regulamenta o acesso à informação no âmbito do Poder Executivo Estadual.
+- [Decreto 45.969, de 24 de maio de 2012](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=45969&ano=2012) – Regulamenta o acesso à informação no âmbito do Poder Executivo Estadual.
 
 Solicitações de acesso à informação podem ser requeridas nos seguintes canais:
 
-Atendimento eletrônico 	Atendimento presencial 	Atendimento telefônico
-
+Atendimento eletrônico 
 Através do Sistema Eletrônico do Serviço de Informação ao Cidadão
-
 e SIC
 
 
-
-
-
-
+Atendimento presencial 	
 Nas Unidades de Atendimento Integrado. Consulte aqui os endereços das UAIs.
-
 UAI
 
 Horário de Atendimento:
-
 Capital: segunda a sexta de 7h às 19h
-
 Interior: segunda a sexta de 8h às 17h
 
-
+Atendimento telefônico
 Através do LigMinas 155 - opção 9.
-
 LIGMINAS
 
-
-
 Horário de atendimento:
-
 Segunda a sexta de 7h às 19h
-
 Para ligações de outros Estados o número para atendimento é:
-
 (31) 3069-6601
-
-
-
 
 
 {slider Relatórios Gerenciais – Lei de Acesso à Informação|icon}
@@ -115,18 +97,13 @@ Abaixo, você pode visualizar ou baixar os relatórios consolidados:
 Relatórios 2013
 {phocadownload view=file|id=32|target=s}
 
-
-
 Relatórios 2014
 {phocadownload view=file|id=33|target=s}
-
-
 
 Relatórios 2015
 {phocadownload view=file|id=63|target=s}
 
 {phocadownload view=file|id=30|target=s}
-
 
 
 Relatórios a partir de 2016
