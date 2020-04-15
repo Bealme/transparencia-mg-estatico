@@ -1,16 +1,8 @@
 {slider O que é o Portal|closed|icon}
 
-O Portal da Transparência é uma iniciativa do Governo do Estado de Minas Gerais, sob a gestão da Controladoria-Geral do Estado que disponibiliza dados e informações públicas de:
+O Portal da Transparência lançado em 2012 é uma iniciativa do Governo do Estado de Minas Gerais, sob a gestão da Controladoria-Geral do Estado, que disponibiliza dados e informações públicas de [órgãos e entidades do Poder Executivo Estadual](https://www.mg.gov.br/estrutura-governamental) (Fundos, Fundações Públicas, Autarquias e Empresas Estatais Dependentes) e atende de maneira ativa a Lei Federal nº 12.527 de 2011, conhecida como Lei de Acesso a Informação, que regulamenta o direito constitucional do cidadão a acessar as informações públicas e também oferta a ferramenta para solicitações de informações por meio da Lei de Acesso a Informação ([E-sic](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html?ReturnUrl=%2fsistema%2f)).
 
-* [órgãos e entidades da administração pública estadual direta e indireta](https://www.mg.gov.br/estrutura-governamental) (Fundos, Fundações Públicas, Autarquias e Empresas Estatais Dependentes);
-
-* outros poderes do Estado;
-
-* municípios;
-
-* além de oferecer ferramenta para solicitações de informações por meio da Lei de Acesso a Informação.
-
-A transparência tem papel importante no combate à corrupção, ao induzir maior responsabilidade e controle por parte dos gestores públicos ao divulgar suas ações para cidadãos, órgãos de controle, pesquisadores e mídia.
+O Estado de Minas Gerais acredita que a transparência é o melhor caminho para uma administração mais correta e tem papel importante no combate à corrupção, ao induzir maior responsabilidade e controle por parte dos gestores públicos ao divulgar suas ações para cidadãos, órgãos de controle, pesquisadores e mídia.
 
 O Portal da Transparência contem dados e informações sobre os seguintes assuntos:
 
@@ -27,7 +19,49 @@ O Portal da Transparência contem dados e informações sobre os seguintes assun
 * Informações socioeconômicas do Estado;
 * Prestação de contas do governador;
 * Dados Abertos;
-* Lei de Acesso a Informação
+* Lei de Acesso a Informação.
+
+## Histórico
+Desde a sua criação, o Portal tem passado por diversas atualizações para facilitar o acesso da sociedade a informações públicas:
+
+- **2012**
+> Lançamento do Portal
+>
+> - Consulta Remuneração de Servidores
+
+- **2013**
+>
+
+- **2014**
+> 
+
+- **2015**
+>
+
+- **2016**
+>
+
+- **2017**
+> 
+
+- **2018**
+> Planejamento e Monitoramento
+> - Consulta Programação e Execução do PPAG por Programa
+>
+> - Consulta Programação e Execução - Consolidado
+>
+> Consulta TCE/Obras Públicas
+
+- 2019
+> Consulta Voos do Governador
+
+- 2020
+> Consulta de Restos a Pagar
+>
+> - criação dos filtros: Favorecido por Nome e Favorecido por CPF/CNPJ e inclusão da função Pesquisa Avançada
+>
+> Pesquisa Avançada: inclusão da opção Exibir Todos
+
 
 
 {slider Manual de Navegação|icon}
