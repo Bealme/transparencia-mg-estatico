@@ -4,7 +4,7 @@ O Portal da Transparência lançado em 2012 é uma iniciativa do Governo do Esta
 
 O Estado de Minas Gerais acredita que a transparência é o melhor caminho para uma administração mais correta e tem papel importante no combate à corrupção, ao induzir maior responsabilidade e controle por parte dos gestores públicos ao divulgar suas ações para cidadãos, órgãos de controle, pesquisadores e mídia.
 
-O Portal da Transparência contem dados e informações sobre os seguintes assuntos:
+O Portal da Transparência contém dados e informações sobre os seguintes assuntos:
 
 * Gastos/despesas públicas dos Poderes do Estado;
 * Receitas ou arrecadação dos Poderes do Estado;
@@ -25,42 +25,44 @@ O Portal da Transparência contem dados e informações sobre os seguintes assun
 Desde a sua criação, o Portal tem passado por diversas atualizações para facilitar o acesso da sociedade a informações públicas:
 
 - **2012**
-> Lançamento do Portal
->
-> - Consulta Remuneração de Servidores
-
-- **2013**
->
-
-- **2014**
-> 
+> Lançamento do Portal conforme determina a Lei Federal nº 12.527/2011 com informaçõs sobre a despesa, receita, dívida pública  e  remuneração de Servidores
 
 - **2015**
->
+> Reestruturação do Portal da Transparência tendo como diretrizes ampliar o rol de informações, melhorar a usabilidade, uso de linguagem mais cidadã e utilização de funcionalidades que contribuem com a disseminação das informações e fomentem o controle social. Foram entregues:
+
+> Reformulação da consulta da despesa incluindo despesa empenhada, liquidada e paga e restos a pagar;
+> Consulta da despesa de pessoal;
+> Reformulação da consulta de remuneração dos servidores do poder executivo estadual;
+> Reformulação da consulta de Execução da Dívida Pública;
+> Transferências obrigatórias a municípios;
+> Contas do Governador;
+> Cidadania Fiscal;
+> Informações Sócio Econômicas
 
 - **2016**
->
+> Consulta de Diárias
+> Consulta de Compras e Contratos
 
 - **2017**
-> 
+> Consulta de Viagens incluindo as diárias e passagens
+> Consulta de Convênios de saída incluindo o mapa de localização
+> Consulta de Convênio de Entrada
+> Consulta de Patrimônio ativo e inativo do Estado
+> Consulta da Frota ativa do Estado
+> Consulta de Orçamento Público incluindo a proposta, as emendas, a alteração e o crédito orçamentário bem como as obras Orçadas
+> Mapas de Investimento
 
 - **2018**
-> Planejamento e Monitoramento
-> - Consulta Programação e Execução do PPAG por Programa
->
-> - Consulta Programação e Execução - Consolidado
->
+> Consulta Planejamento e Monitoramento das ações e programas do Estado 
 > Consulta TCE/Obras Públicas
 
-- 2019
+- **2019**
+> Consulta das Obras Públicas/TCE
 > Consulta Voos do Governador
 
-- 2020
-> Consulta de Restos a Pagar
->
-> - criação dos filtros: Favorecido por Nome e Favorecido por CPF/CNPJ e inclusão da função Pesquisa Avançada
->
-> Pesquisa Avançada: inclusão da opção Exibir Todos
+- **2020**
+> Campos adionais da consulta de Restos a Pagar incluindo a criação dos filtros favorecido por nome e por CPF/CNPJ bem como a inclusão da Pesquisa Avançada
+> Inclussão de nova funcionalidade na Pesquisas Avançada das consultas do Portal
 
 
 
