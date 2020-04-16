@@ -25,44 +25,71 @@ O Portal da Transparência contém dados e informações sobre os seguintes assu
 Desde a sua criação, o Portal tem passado por diversas atualizações para facilitar o acesso da sociedade a informações públicas:
 
 - **2012**
-> Lançamento do Portal conforme determina a Lei Federal nº 12.527/2011 com informaçõs sobre a despesa, receita, dívida pública  e  remuneração de Servidores
+> Lançamento do Portal conforme determina a Lei Federal nº 12.527/2011 com a disponibilização das seguintes consultas:
+>
+> - Despesa
+>
+> - Receita
+>
+> - Dívida Pública
+>
+> - Remuneração de Servidores
 
 - **2015**
-> Reestruturação do Portal da Transparência tendo como diretrizes ampliar o rol de informações, melhorar a usabilidade, uso de linguagem mais cidadã e utilização de funcionalidades que contribuem com a disseminação das informações e fomentem o controle social. Foram entregues:
-
-> Reformulação da consulta da despesa incluindo despesa empenhada, liquidada e paga e restos a pagar;
-> Consulta da despesa de pessoal;
-> Reformulação da consulta de remuneração dos servidores do poder executivo estadual;
-> Reformulação da consulta de Execução da Dívida Pública;
-> Transferências obrigatórias a municípios;
-> Contas do Governador;
-> Cidadania Fiscal;
-> Informações Sócio Econômicas
+> Reestruturação do Portal da Transparência tendo como diretrizes ampliar o rol de informações, melhorar a usabilidade, utilizar uma linguagem mais cidadã e utilizar de funcionalidades que contribuem para disseminação das informações e fomentem o controle social. 
+>
+> Foram entregues novas consultas:
+>
+> - Restos a pagar
+>
+> - Despesa de pessoal
+>
+> - Transferências de Impostos a Municípios
+>
+> - Contas do Governador
+> 
+> - Cidadania Fiscal
+> 
+> - Informações Sócioeconômicas
+> 
+> E outras consultas foram aprimoradas, como a consulta de Despesa que incluiu as opções de consultar despesa empenhada, liquidada e paga; a reformulação da consulta de Remuneração dos Servidores do Poder Executivo Estadual e a melhoria da consulta de Execução da Dívida Pública.
 
 - **2016**
-> Consulta de Diárias
-> Consulta de Compras e Contratos
+> Outras duas novas consultas foram incorporadas ao Portal da Transparência:
+> 
+> - Diárias
+> 
+> - Compras e Contratos
 
 - **2017**
-> Consulta de Viagens incluindo as diárias e passagens
-> Consulta de Convênios de saída incluindo o mapa de localização
-> Consulta de Convênio de Entrada
-> Consulta de Patrimônio ativo e inativo do Estado
-> Consulta da Frota ativa do Estado
-> Consulta de Orçamento Público incluindo a proposta, as emendas, a alteração e o crédito orçamentário bem como as obras Orçadas
-> Mapas de Investimento
+> Em 2017, tivemos a incorporação de diversas consultas, com destaque para as consultas de Convênios, inserindo assim mais e melhores consultas e avançando na transparência ativa em Minas Gerais: 
+> 
+> - Convênios/Parcerias de Saída de Recursos, incluindo dados de geolocalização
+> 
+> - Convênios de Entrada de Recursos
+>
+> - Viagens, incluindo as diárias e passagens
+>
+> - Informações do Patrimônio Ativo e Inativo do Estado
+> 
+> - Dados da Frota ativa do Estado, com informações sobre o abastecimento dos veículos
+> 
+> - Dados sobre o Orçamento Público incluindo a Proposta Orçamentária, Emendas Orçamentárias, Alteração Orçamentária, Crédito Orçamentário e Obras Orçadas
+>
+> - Mapa de Investimento
 
 - **2018**
-> Consulta Planejamento e Monitoramento das ações e programas do Estado 
-> Consulta TCE/Obras Públicas
+> Dando continuidade a reformulação iniciada em 2017, em 2018 foram concluídas a entrega da consulta Planejamento e Monitoramento das ações e programas do Estado. Foi incluída também a consulta de Obras Públicas do TCEMG.
 
 - **2019**
-> Consulta das Obras Públicas/TCE
-> Consulta Voos do Governador
+> Em 2019, o Portal passou a divulgar mensalmente os dados dos Voos do Governador.
 
 - **2020**
-> Campos adionais da consulta de Restos a Pagar incluindo a criação dos filtros favorecido por nome e por CPF/CNPJ bem como a inclusão da Pesquisa Avançada
-> Inclussão de nova funcionalidade na Pesquisas Avançada das consultas do Portal
+> Em 2020, iniciou-se uma série de correções e melhorias nas consultas atuais do Portal, em destaque para:
+>
+> - Criação de campos adionais na consulta de Restos a Pagar incluindo a criação dos filtros favorecido por nome e por CPF/CNPJ bem como a inclusão da Pesquisa Avançada
+> 
+> - Inclusão de nova funcionalidade na Pesquisas Avançada das consultas do Portal
 
 
 
