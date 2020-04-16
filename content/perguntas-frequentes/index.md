@@ -1,14 +1,14 @@
 {slider Quais informações estão disponíveis neste Portal e quais as suas fontes?|closed|icon}
 
-As informações disponibilizadas neste portal de [órgãos e entidades da administração pública estadual direta e indireta](https://www.mg.gov.br/estrutura-governamental) (incluindo fundos, fundações, autarquias e empresas estatais dependentes) referem-se a: 
+As informações disponibilizadas neste portal incluem os [órgãos e entidades do Poder Executivo Estadual](https://www.mg.gov.br/estrutura-governamental) (incluindo fundos, fundações, autarquias e empresas estatais dependentes) e alguns dados de outros Poderes do Estado e referem-se a: 
 
 * Gastos/despesas públicos dos Poderes do Estado - Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
 
-* Receitas ou arrecadação dos Poderes do Estado; Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
+* Receitas ou arrecadação dos Poderes do Estado - Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
 
-* Dívidas externa e interna do Estado – montante, amortizações e juros; Secretaria de Estado da Fazenda (SEF) e Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
+* Dívidas externa e interna do Estado – montante, amortizações e juros - Secretaria de Estado da Fazenda (SEF) e Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
 
-* Remuneração dos servidores do Poder Executivo (do ano corrente, na seção Pessoal; dos anos anteriores, na seção de Dados Abertos) - órgãos e entidades e Sistema de Administração de Pessoal (SISAP)
+* Remuneração dos servidores do Poder Executivo (do ano corrente, na seção [Pessoal](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores); dos anos anteriores, na seção de [Dados Abertos](http://www.transparencia.dadosabertos.mg.gov.br/dataset/remuneracao-dos-servidores) - órgãos e entidades e Sistema de Administração de Pessoal (SISAP)
 
 * Despesa com pessoal dos Poderes do Estado - Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
 
@@ -36,11 +36,13 @@ Provisoriamente, também não estão sendo divulgados no Portal descontos eventu
 
 {slider Por que o Portal da Transparência foi criado?|icon}
 
-O Portal da Transparência foi criado com o objetivo de dar mais transparência as ações do governo do Estado, permitindo à sociedade acompanhar a aplicação dos recursos públicos. Dessa forma, propicia o controle social e auxilia o combate à corrupção por diversos setores da a sociedade, imprensa e pesquisadores.
+O Portal da Transparência foi criado com o objetivo de dar mais transparência as ações do governo do Estado, permitindo à sociedade acompanhar a aplicação dos recursos públicos. Dessa forma, propicia o controle social e auxilia o combate à corrupção por diversos setores da sociedade, imprensa e pesquisadores.
 
 {slider Os investimentos apresentados no Portal da Transparência englobam todos os investimentos feitos pelas empresas estatais?|icon}
 
-Não, engloba apenas os investimentos das empresas dependentes (Empresa de Assistência Técnica e Extensão Rural do Estado de Minas Gerais – Emater, Empresa de Pesquisa Agropecuária de Minas Gerais – EPAMIG, Rádio Inconfidência Ltda.) e o aporte de recursos efetuado pelo Tesouro do Estado nas empresas não dependentes para os investimentos realizados por elas. Não inclui o que as empresas aplicam com recursos próprios, e os decorrentes de financiamentos celebrados diretamente pela Empresa e aqueles aplicados pela iniciativa privada, nos projetos de Parcerias Público-Privadas
+Não, engloba apenas os investimentos das empresas dependentes (Empresa de Assistência Técnica e Extensão Rural do Estado de Minas Gerais – Emater, Empresa de Pesquisa Agropecuária de Minas Gerais – EPAMIG, Rádio Inconfidência Ltda.) e o aporte de recursos efetuado pelo Tesouro do Estado nas empresas não dependentes para os investimentos realizados por elas. 
+
+Não inclui o que as empresas aplicam com recursos próprios, os decorrentes de financiamentos celebrados diretamente pela Empresa e aqueles aplicados pela iniciativa privada, nos projetos de Parcerias Público-Privadas
 
 {slider Onde se encontram informações sobre os recursos empregados pelo Poder Legislativo, Poder Judiciário e Ministério Público de Minas Gerais?|icon}
 
@@ -53,13 +55,20 @@ Tribunal de Justiça de Minas Gerais
 Tribunal de Contas do Estado de Minas Gerais
 Ministério Público de Minas Gerais
 Defensoria Pública de Minas Gerais
+
 {slider Quais valores foram repassados ao meu município?|icon}
 
-Existem diversos tipos de repasses a municípios. Os repasses de impostos a municípios estão disponíveis na seção Transferências de Impostos a Municípios. Os repasses voluntários estão na seção Convênios/Parcerias de saída de recursos. É possível consultar os repasses voluntários e obrigatórios na seção Despesa.
+Existem diversos tipos de repasses a municípios. 
+
+Os repasses obrigatórios de impostos a municípios (ICMS, IPVA e IPI) estão disponíveis na seção [Transferências de Impostos a Municípios](http://www.transparencia.mg.gov.br/transferencia-de-impostos-a-municipios). 
+
+Os repasses voluntários podem ser consultados na seção [Convênios/Parcerias de saída de recursos](http://www.transparencia.mg.gov.br/convenios/convenios-de-saida), utilizando-se o filtro *Município do Convenente/OSC Parceira*. 
+
+É também possível consultar os repasses voluntários e obrigatórios realizados para aos Municípios na seção [Despesa](http://www.transparencia.mg.gov.br/despesa-estado).
 
 {slider Quais os instrumentos normativos (Leis, Decretos, etc.) disciplinam a transparência no Brasil?|icon}
 
-Ver Legislação
+Ver [Legislação](http://www.transparencia.mg.gov.br/legislacao#legisla%C3%A7%C3%A3o-sobre-transpar%C3%AAncia-e-acesso-a-informa%C3%A7%C3%A3o)
 
 {slider Quem é obrigado a prestar contas dos recursos públicos?|icon}
 
@@ -67,21 +76,26 @@ Todo aquele que guarde, administre, gerencie, arrecade ou utilize bens e valores
 
 {slider Como tirar dúvidas sobre termos, expressões e siglas que aparecem no Portal da Transparência?|icon}
 
-Consulte o Glossário para esclarecimento dos termos técnicos, siglas e demais expressões utilizadas nos textos explicativos do Portal da Transparência.
+Consulte o [Glossário](http://www.transparencia.mg.gov.br/glossario) para esclarecimento dos termos técnicos, siglas e demais expressões utilizadas nos textos explicativos do Portal da Transparência.
 
 {slider Qual a frequência de atualização do Portal da Transparência?|icon}
 
 As despesas são atualizadas diariamente.
 As receitas são atualizadas mensalmente.
-A remuneração de pessoal é atualizada mensalmente, sendo que os arquivos referentes aos anos anteriores ao ano corrente são disponibilizados na seção de Dados Abertos.
+A remuneração de pessoal é atualizada mensalmente, sendo que os arquivos referentes aos anos anteriores ao ano corrente são disponibilizados na seção de [Dados Abertos](http://www.transparencia.dadosabertos.mg.gov.br/dataset/remuneracao-dos-servidores).
+As informações de [Planejamento e Monitoramento](http://www.transparencia.mg.gov.br/planejamento-e-resultados/planejamento-e-monitoramento) são atualizadas bimestralmente.
+Os convênios são atualizados diariamente.
+As transferências de impostos são atualizados mensalmente.
+As Compras e Patrimônio são atualizados diariamente.
+
 {slider Onde são oferecidos os serviços de informação ao cidadão?|icon}
 
-Segundo o Decreto Estadual nº 45.969/2012, para fins do disposto no art. 9º da Lei Federal nº 12.527, de 2011, os serviços de informação ao cidadão são oferecidos por meio dos instrumentos da Política de Atendimento ao Cidadão de que trata o Decreto nº 45.743, de 26 de setembro de 2011, em especial pelas Unidades de Atendimento Integrado – UAI’s, Linha de Informação do Governo do Estado de Minas Gerais – LigMinas - 155 e Portal da Transparência do Estado de Minas Gerais.
+Segundo o Decreto Estadual nº 45.969/2012, para fins do disposto no art. 9º da Lei Federal nº 12.527, de 2011, os serviços de informação ao cidadão são oferecidos por meio dos instrumentos da Política de Atendimento ao Cidadão de que trata o Decreto nº 45.743, de 26 de setembro de 2011, em especial pelas Unidades de Atendimento Integrado – UAI’s, pela Linha de Informação do Governo do Estado de Minas Gerais – LigMinas - 155 e pelo Portal da Transparência do Estado de Minas Gerais, na seção [Acesso a Informação](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html?ReturnUrl=%2fsistema%2f).
 
 {slider Como solicitar uma informação no Portal da Transparência?|icon}
 
-Para solicitar informações relacionadas aos assuntos tratados pelos órgãos e entidades do Poder Executivo Estadual, clique em Acesso a Informação
+Para solicitar informações relacionadas aos assuntos tratados pelos órgãos e entidades do Poder Executivo Estadual, clique em [Acesso a Informação](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html?ReturnUrl=%2fsistema%2f)
 
-Se você quer pedir uma informação relacionada ao conteúdo do Portal da Transparência, acesse o fale conosco
+Se você quer pedir uma informação relacionada ao conteúdo do Portal da Transparência, acesse o [fale conosco](http://www.transparencia.mg.gov.br/fale-conosco)
 
 {/sliders}
