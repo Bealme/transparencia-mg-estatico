@@ -79,10 +79,10 @@ Desde a sua criação, o Portal tem passado por diversas atualizações para fac
 > - Mapa de Investimento
 
 - **2018**
-> Dando continuidade a reformulação iniciada em 2017, em 2018 foram concluídas a entrega da consulta Planejamento e Monitoramento das ações e programas do Estado. Foi incluída também a consulta de Obras Públicas do TCEMG.
+> Dando continuidade a reformulação iniciada em 2017, em 2018 foram concluídas a entrega da consulta Planejamento e Monitoramento das ações e programas do Estado. 
 
 - **2019**
-> Em 2019, o Portal passou a divulgar mensalmente os dados dos Voos do Governador.
+> Em 2019, o Portal passou a divulgar mensalmente os dados dos Voos do Governador e também incluiu a consulta de Obras Públicas do TCEMG.
 
 - **2020**
 > Em 2020, iniciou-se uma série de correções e melhorias nas consultas atuais do Portal, em destaque para:
