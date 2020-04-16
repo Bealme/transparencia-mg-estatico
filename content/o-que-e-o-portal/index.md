@@ -35,6 +35,9 @@ Desde a sua criação, o Portal tem passado por diversas atualizações para fac
 >
 > - Remuneração de Servidores
 
+- **2014**
+> Em 2014, a publicação de dados em formato aberto se tornou realidade no Portal da Transparência com a disponibilização da plataforma *open-source* CKAN da *Open Knowledge Foundation - OKF*. O portal de Dados Abertos permite que os dados públicos sejam estruturados em formato aberto, processáveis por máquina, referenciados na rede mundial de computadores e disponibilizados sob licença aberta que permita sua livre reutilização, consumo ou cruzamento em aplicações digitais desenvolvidas pela sociedade.
+
 - **2015**
 > Reestruturação do Portal da Transparência tendo como diretrizes ampliar o rol de informações, melhorar a usabilidade, utilizar uma linguagem mais cidadã e utilizar de funcionalidades que contribuem para disseminação das informações e fomentem o controle social. 
 >
@@ -53,6 +56,8 @@ Desde a sua criação, o Portal tem passado por diversas atualizações para fac
 > - Informações Sócioeconômicas
 > 
 > E outras consultas foram aprimoradas, como a consulta de Despesa que incluiu as opções de consultar despesa empenhada, liquidada e paga; a reformulação da consulta de Remuneração dos Servidores do Poder Executivo Estadual e a melhoria da consulta de Execução da Dívida Pública.
+>
+> Também em 2015, o Portal da Transparência passou a disponibilizar o e-SIC (Sistema Eletrônico do Serviço de Informações ao Cidadão) ferramente que permite que qualquer pessoa, física ou jurídica, encaminhe pedidos de acesso a informação para órgãos e entidades do Poder Executivo Estadual, acompanhe o prazo pelo número de protocolo gerado e receba a resposta da solicitação por e-mail.
 
 - **2016**
 > Outras duas novas consultas foram incorporadas ao Portal da Transparência:
