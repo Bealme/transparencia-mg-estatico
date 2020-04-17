@@ -34,9 +34,11 @@ O Estado de Minas Gerais acredita que a transparência é o melhor caminho para 
  - _Remuneração de Servidores_
 
  **2014**
+ 
 Em 2014, a publicação de dados em formato aberto se tornou realidade no Portal da Transparência com a disponibilização da plataforma *open-source* CKAN da *Open Knowledge Foundation - OKF*. O portal de Dados Abertos permite que os dados públicos sejam estruturados em formato aberto, processáveis por máquina, referenciados na rede mundial de computadores e disponibilizados sob licença aberta que permita sua livre reutilização, consumo ou cruzamento em aplicações digitais desenvolvidas pela sociedade.
 
  **2015**
+ 
  Reestruturação do Portal da Transparência tendo como diretrizes ampliar o rol de informações, melhorar a usabilidade, utilizar uma linguagem mais cidadã e utilizar de funcionalidades que contribuem para disseminação das informações e fomentem o controle social. 
 
  As novas consultas disponibilizadas foram:
@@ -64,6 +66,7 @@ Em 2014, a publicação de dados em formato aberto se tornou realidade no Portal
 Também em 2015, o Portal da Transparência passou a disponibilizar o _e-SIC (Sistema Eletrônico do Serviço de Informações ao Cidadão)_ ferramente que permite que qualquer pessoa, física ou jurídica, encaminhe pedidos de acesso a informação para órgãos e entidades do Poder Executivo Estadual, acompanhe o prazo pelo número de protocolo gerado e receba a resposta da solicitação por e-mail.
 
 **2016**
+
 Outras duas novas consultas foram incorporadas ao Portal da Transparência:
  
 - _Diárias_
@@ -71,6 +74,7 @@ Outras duas novas consultas foram incorporadas ao Portal da Transparência:
 - _Compras e Contratos_
 
 **2017**
+
 Em 2017, houve a incorporação de diversas consultas, com destaque para as consultas de Convênios, avançando na transparência ativa em Minas Gerais: 
  
 - _Convênios/Parcerias de Saída de Recursos_, incluindo dados de geolocalização
@@ -88,12 +92,15 @@ Em 2017, houve a incorporação de diversas consultas, com destaque para as cons
 - _Mapa de Investimento_
 
 **2018**
+
 Dando continuidade à reformulação iniciada em 2017, a consulta de _Planejamento e Monitoramento das ações e programas do Estado_ foi disponibilizada. 
 
 **2019**
+
 Em 2019, o Portal passou a divulgar mensalmente os dados dos _Voos do Governador_ e também incluiu a consulta de _Obras Públicas do TCEMG_.
 
 **2020**
+
 Em 2020, iniciou-se uma série de correções e melhorias nas consultas atuais do Portal, em destaque para:
 
 - Criação de campos adionais na consulta de _Restos a Pagar_ incluindo a criação dos filtros favorecido por nome e por CPF/CNPJ bem como a inclusão da Pesquisa Avançada
