@@ -1,8 +1,6 @@
 {slider O que é o Portal|closed|icon}
 
-O Portal da Transparência lançado em 2012 é uma iniciativa do Governo do Estado de Minas Gerais, sob a gestão da Controladoria-Geral do Estado, que disponibiliza dados e informações públicas de [órgãos e entidades do Poder Executivo Estadual](https://www.mg.gov.br/estrutura-governamental) (Fundos, Fundações Públicas, Autarquias e Empresas Estatais Dependentes) e atende de maneira ativa a Lei Federal nº 12.527 de 2011, conhecida como Lei de Acesso a Informação, que regulamenta o direito constitucional do cidadão a acessar as informações públicas e também oferta a ferramenta para solicitações de informações por meio da Lei de Acesso a Informação ([E-sic](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html?ReturnUrl=%2fsistema%2f)).
-
-O Estado de Minas Gerais acredita que a transparência é o melhor caminho para uma administração mais correta e tem papel importante no combate à corrupção, ao induzir maior responsabilidade e controle por parte dos gestores públicos ao divulgar suas ações para cidadãos, órgãos de controle, pesquisadores e mídia.
+O Portal da Transparência é uma iniciativa do Governo do Estado de Minas Gerais, sob a gestão da Controladoria-Geral do Estado, que disponibiliza dados e informações públicas de [órgãos e entidades do Poder Executivo Estadual](https://www.mg.gov.br/estrutura-governamental) (Fundos, Fundações Públicas, Autarquias e Empresas Estatais Dependentes). O Portal atende de maneira ativa a Lei de Acesso a Informação (Lei Federal nº 12.527 de 2011), que regulamenta o direito constitucional do cidadão a acessar as informações públicas e também oferta a ferramenta para solicitações de informações por meio da Lei de Acesso a Informação ([E-sic](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html?ReturnUrl=%2fsistema%2f)).
 
 O Portal da Transparência contém dados e informações sobre os seguintes assuntos:
 
@@ -21,80 +19,86 @@ O Portal da Transparência contém dados e informações sobre os seguintes assu
 * Dados Abertos;
 * Lei de Acesso a Informação.
 
-## Histórico
-Desde a sua criação, o Portal tem passado por diversas atualizações para facilitar o acesso da sociedade a informações públicas:
+{slider Histórico|closed|icon}
+O Estado de Minas Gerais acredita que a transparência é o melhor caminho para uma administração mais correta e tem papel importante no combate à corrupção, ao induzir maior responsabilidade e controle por parte dos gestores públicos ao divulgar suas ações para cidadãos, órgãos de controle, pesquisadores e mídia. Desde a sua criação, o Portal tem passado por diversas atualizações para facilitar o acesso da sociedade a informações públicas:
 
 - **2012**
-> Lançamento do Portal conforme determina a Lei Federal nº 12.527/2011 com a disponibilização das seguintes consultas:
->
-> - Despesa
->
-> - Receita
->
-> - Dívida Pública
->
-> - Remuneração de Servidores
+ Lançamento do Portal conforme determina a Lei Federal nº 12.527/2011 com a disponibilização das seguintes consultas:
 
-- **2014**
-> Em 2014, a publicação de dados em formato aberto se tornou realidade no Portal da Transparência com a disponibilização da plataforma *open-source* CKAN da *Open Knowledge Foundation - OKF*. O portal de Dados Abertos permite que os dados públicos sejam estruturados em formato aberto, processáveis por máquina, referenciados na rede mundial de computadores e disponibilizados sob licença aberta que permita sua livre reutilização, consumo ou cruzamento em aplicações digitais desenvolvidas pela sociedade.
+ - _Despesa_
 
-- **2015**
-> Reestruturação do Portal da Transparência tendo como diretrizes ampliar o rol de informações, melhorar a usabilidade, utilizar uma linguagem mais cidadã e utilizar de funcionalidades que contribuem para disseminação das informações e fomentem o controle social. 
->
-> Foram entregues novas consultas:
->
-> - Restos a pagar
->
-> - Despesa de pessoal
->
-> - Transferências de Impostos a Municípios
->
-> - Contas do Governador
-> 
-> - Cidadania Fiscal
-> 
-> - Informações Sócioeconômicas
-> 
-> E outras consultas foram aprimoradas, como a consulta de Despesa que incluiu as opções de consultar despesa empenhada, liquidada e paga; a reformulação da consulta de Remuneração dos Servidores do Poder Executivo Estadual e a melhoria da consulta de Execução da Dívida Pública.
->
-> Também em 2015, o Portal da Transparência passou a disponibilizar o e-SIC (Sistema Eletrônico do Serviço de Informações ao Cidadão) ferramente que permite que qualquer pessoa, física ou jurídica, encaminhe pedidos de acesso a informação para órgãos e entidades do Poder Executivo Estadual, acompanhe o prazo pelo número de protocolo gerado e receba a resposta da solicitação por e-mail.
+ - _Receita_
 
-- **2016**
-> Outras duas novas consultas foram incorporadas ao Portal da Transparência:
-> 
-> - Diárias
-> 
-> - Compras e Contratos
+ - _Dívida Pública_
 
-- **2017**
-> Em 2017, tivemos a incorporação de diversas consultas, com destaque para as consultas de Convênios, inserindo assim mais e melhores consultas e avançando na transparência ativa em Minas Gerais: 
-> 
-> - Convênios/Parcerias de Saída de Recursos, incluindo dados de geolocalização
-> 
-> - Convênios de Entrada de Recursos
->
-> - Viagens, incluindo as diárias e passagens
->
-> - Informações do Patrimônio Ativo e Inativo do Estado
-> 
-> - Dados da Frota ativa do Estado, com informações sobre o abastecimento dos veículos
-> 
-> - Dados sobre o Orçamento Público incluindo a Proposta Orçamentária, Emendas Orçamentárias, Alteração Orçamentária, Crédito Orçamentário e Obras Orçadas
->
-> - Mapa de Investimento
+ - _Remuneração de Servidores_
 
-- **2018**
-> Dando continuidade a reformulação iniciada em 2017, em 2018 foram concluídas a entrega da consulta Planejamento e Monitoramento das ações e programas do Estado. 
+ **2014**
+Em 2014, a publicação de dados em formato aberto se tornou realidade no Portal da Transparência com a disponibilização da plataforma *open-source* CKAN da *Open Knowledge Foundation - OKF*. O portal de Dados Abertos permite que os dados públicos sejam estruturados em formato aberto, processáveis por máquina, referenciados na rede mundial de computadores e disponibilizados sob licença aberta que permita sua livre reutilização, consumo ou cruzamento em aplicações digitais desenvolvidas pela sociedade.
 
-- **2019**
-> Em 2019, o Portal passou a divulgar mensalmente os dados dos Voos do Governador e também incluiu a consulta de Obras Públicas do TCEMG.
+ **2015**
+ Reestruturação do Portal da Transparência tendo como diretrizes ampliar o rol de informações, melhorar a usabilidade, utilizar uma linguagem mais cidadã e utilizar de funcionalidades que contribuem para disseminação das informações e fomentem o controle social. 
 
-- **2020**
-> Em 2020, iniciou-se uma série de correções e melhorias nas consultas atuais do Portal, em destaque para:
->
-> - Criação de campos adionais na consulta de Restos a Pagar incluindo a criação dos filtros favorecido por nome e por CPF/CNPJ bem como a inclusão da Pesquisa Avançada
-> 
-> - Inclusão de nova funcionalidade na Pesquisas Avançada das consultas do Portal
+ As novas consultas disponibilizadas foram:
+
+ - _Restos a pagar_
+
+ - _Despesa de pessoal_
+
+ - _Transferências de Impostos a Municípios_
+
+ - _Contas do Governador_
+ 
+ - _Cidadania Fiscal_
+ 
+ - _Informações Sócioeconômicas_
+ 
+ E outras consultas foram aprimoradas, como:
+ 
+ - _Despesa_, que incluiu as opções de consultar despesa empenhada, liquidada e paga; 
+ 
+ - _Remuneração dos Servidores do Poder Executivo Estadual_
+ 
+ - _Execução da Dívida Pública_.
+
+Também em 2015, o Portal da Transparência passou a disponibilizar o _e-SIC (Sistema Eletrônico do Serviço de Informações ao Cidadão)_ ferramente que permite que qualquer pessoa, física ou jurídica, encaminhe pedidos de acesso a informação para órgãos e entidades do Poder Executivo Estadual, acompanhe o prazo pelo número de protocolo gerado e receba a resposta da solicitação por e-mail.
+
+**2016**
+Outras duas novas consultas foram incorporadas ao Portal da Transparência:
+ 
+- _Diárias_
+ 
+- _Compras e Contratos_
+
+**2017**
+Em 2017, houve a incorporação de diversas consultas, com destaque para as consultas de Convênios, avançando na transparência ativa em Minas Gerais: 
+ 
+- _Convênios/Parcerias de Saída de Recursos_, incluindo dados de geolocalização
+ 
+- _Convênios de Entrada de Recursos_
+
+- _Viagens_, incluindo as diárias e passagens
+
+- Informações do _Patrimônio Ativo e Inativo do Estado_
+ 
+- Dados da _Frota ativa do Estado_, com informações sobre o abastecimento dos veículos
+ 
+- Dados sobre o _Orçamento Público_ incluindo a Proposta Orçamentária, Emendas Orçamentárias, Alteração Orçamentária, Crédito Orçamentário e Obras Orçadas
+
+- _Mapa de Investimento_
+
+**2018**
+Dando continuidade à reformulação iniciada em 2017, a consulta de _Planejamento e Monitoramento das ações e programas do Estado_ foi disponibilizada. 
+
+**2019**
+Em 2019, o Portal passou a divulgar mensalmente os dados dos _Voos do Governador_ e também incluiu a consulta de _Obras Públicas do TCEMG_.
+
+**2020**
+Em 2020, iniciou-se uma série de correções e melhorias nas consultas atuais do Portal, em destaque para:
+
+- Criação de campos adionais na consulta de _Restos a Pagar_ incluindo a criação dos filtros favorecido por nome e por CPF/CNPJ bem como a inclusão da Pesquisa Avançada
+ 
+- Inclusão de nova funcionalidade na Pesquisas Avançada das consultas do Portal
 
 
 
