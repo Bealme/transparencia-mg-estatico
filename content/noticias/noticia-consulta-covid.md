@@ -1,5 +1,5 @@
 
-# [Notícia] Portal da Transparência cria seção específica para divulgar os dados relacionados ao enfrentamento a pandemia causa pela COVID-19
+# [Notícia] Portal da Transparência cria seção específica para divulgar os dados relacionados ao enfrentamento da pandemia causa pela COVID-19
 
 O Portal da Transparência de Minas Gerais disponibilizou uma seção específica para divulgar os dados relacionados ao enfrentamento da pandemia causa pela COVID-19 (coronavírus). Nessa seção é possível consultar:
 
