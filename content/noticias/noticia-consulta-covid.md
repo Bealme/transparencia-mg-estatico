@@ -1,5 +1,5 @@
 
-# [Notícia] Portal da Transparência cria seção específica para divulgar os dados relacionados ao enfrentamento da pandemia causa pela COVID-19
+# [Notícia] Portal da Transparência cria seção específica para divulgar os dados relacionados ao enfrentamento da pandemia causada pela COVID-19
 
 O Portal da Transparência de Minas Gerais disponibilizou uma seção específica para divulgar os dados relacionados ao enfrentamento da pandemia causa pela COVID-19 (coronavírus). Nessa seção é possível consultar:
 
@@ -7,7 +7,7 @@ O Portal da Transparência de Minas Gerais disponibilizou uma seção específic
 
 * [Compras - Programa de Enfrentamento Covid-19](http://transparencia.mg.gov.br/covid-19/compras-contratos): contratações executadas no Programa 26 - Enfrentamento dos Efeitos da Pandemia de Covid-19, criado pela [Lei nº 23.632/2020](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=LEI&num=23632&comp=&ano=2020&texto=consolidado);
 
-* [Canal da Ouvidoria](http://www.ouvidoriageral.mg.gov.br/coronavirus) exclusivo para manifestações relacionadas à COVID-19 (coronavírus); e
+* [Canal da Ouvidoria](http://www.ouvidoriageral.mg.gov.br/coronavirus) exclusivo para manifestações relacionadas à COVID-19; e
 
 * [Legislação e Normativos](http://transparencia.mg.gov.br/covid-19/legislacao-e-normativos) relativos às medidas de proteção e combate à COVID-19.
 
