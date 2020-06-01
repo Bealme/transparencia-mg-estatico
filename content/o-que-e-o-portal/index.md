@@ -219,4 +219,11 @@ Relatórios 2018
 
 {phocadownload view=file|id=279|text=Relatório Recursos e Reclamações por Instituição 2018|target=s}
 
+Relatórios 2019
+{phocadownload view=file|id=305|target=s}
+
+{phocadownload view=file|id=306|target=s}
+
+{/sliders}
+
 {/sliders}
