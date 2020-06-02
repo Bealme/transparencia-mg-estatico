@@ -1,5 +1,5 @@
 
-# [Notícia] Portal da Transparência disponibilza nova consulta para controle dos dados de compras e contratos para enfrentamento da COVID-19
+# [Notícia] Portal da Transparência disponibiliza nova consulta para controle dos dados de compras e contratos para enfrentamento da COVID-19
 
 O Portal da Transparência de Minas Gerais disponibilizou na sexta-feira, dia 29/05/2020, uma seção exclusiva para divulgar os dados relacionados ao enfrentamento da pandemia causada pela COVID-19 (coronavírus). Nessa seção é possível consultar:
 
@@ -9,7 +9,7 @@ O Portal da Transparência de Minas Gerais disponibilizou na sexta-feira, dia 29
 
 * [Canal da Ouvidoria](http://www.ouvidoriageral.mg.gov.br/coronavirus) exclusivo para manifestações relacionadas à COVID-19; e
 
-* [Legislação e Normativos](http://transparencia.mg.gov.br/covid-19/legislacao-e-normativos) relacioandas às medidas de proteção e combate à COVID-19.
+* [Legislação e Normativos](http://transparencia.mg.gov.br/covid-19/legislacao-e-normativos) relacionados às medidas de proteção e combate à COVID-19.
 
 A criação dessa seção é mais uma iniciativa que reforça o compromisso do governo de Minas Gerais com a transparência.
 
