@@ -1,5 +1,5 @@
 
-# [Notícia] Portal da Transparência disponibilza nova consulta para consulta e controle dos dados de compras e contratos para enfrentamento da COVID-19
+# [Notícia] Portal da Transparência disponibilza nova consulta para controle dos dados de compras e contratos para enfrentamento da COVID-19
 
 O Portal da Transparência de Minas Gerais disponibilizou na sexta-feira, dia 29/05/2020, uma seção exclusiva para divulgar os dados relacionados ao enfrentamento da pandemia causada pela COVID-19 (coronavírus). Nessa seção é possível consultar:
 
