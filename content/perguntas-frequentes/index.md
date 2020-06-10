@@ -24,6 +24,30 @@ As informações disponibilizadas neste portal incluem os [órgãos e entidades 
 
 * Informações socioeconômicas do Estado – FAPEMIG e Secretaria de Estado de Planejamento e Gestão (SEPLAG)
 
+{slider Por que o Portal da Transparência foi criado?|icon}
+
+O Portal da Transparência foi criado com o objetivo de dar mais transparência as ações do governo do Estado, permitindo à sociedade acompanhar a aplicação dos recursos públicos. Dessa forma, propicia o controle social e auxilia o combate à corrupção por diversos setores da sociedade, imprensa e pesquisadores.
+
+{slider Qual a frequência de atualização do Portal da Transparência?|icon}
+
+As despesas são atualizadas diariamente.
+As receitas são atualizadas mensalmente.
+A remuneração de pessoal é atualizada mensalmente, sendo que os arquivos referentes aos anos anteriores ao ano corrente são disponibilizados na seção de [Dados Abertos](http://www.transparencia.dadosabertos.mg.gov.br/dataset/remuneracao-dos-servidores).
+As informações de [Planejamento e Monitoramento](http://www.transparencia.mg.gov.br/planejamento-e-resultados/planejamento-e-monitoramento) são atualizadas bimestralmente.
+Os convênios são atualizados diariamente.
+As transferências de impostos são atualizados mensalmente.
+As Compras e Patrimônio são atualizados diariamente.
+
+{slider Onde são oferecidos os serviços de informação ao cidadão?|icon}
+
+Segundo o Decreto Estadual nº 45.969/2012, para fins do disposto no art. 9º da Lei Federal nº 12.527, de 2011, os serviços de informação ao cidadão são oferecidos por meio dos instrumentos da Política de Atendimento ao Cidadão de que trata o Decreto nº 45.743, de 26 de setembro de 2011, em especial pelas Unidades de Atendimento Integrado – UAI’s, pela Linha de Informação do Governo do Estado de Minas Gerais – LigMinas - 155 e pelo Portal da Transparência do Estado de Minas Gerais, na seção [Acesso a Informação](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html?ReturnUrl=%2fsistema%2f).
+
+{slider Como solicitar uma informação no Portal da Transparência?|icon}
+
+Para solicitar informações relacionadas aos assuntos tratados pelos órgãos e entidades do Poder Executivo Estadual, clique em [Acesso a Informação](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html?ReturnUrl=%2fsistema%2f)
+
+Se você quer pedir uma informação relacionada ao conteúdo do Portal da Transparência, acesse o [fale conosco](http://www.transparencia.mg.gov.br/fale-conosco)
+
 {slider No Portal da Transparência são divulgadas todas as verbas do salário do servidor público?|closed|icon}
 
 Não.
@@ -33,10 +57,6 @@ No Portal da Transparência são divulgadas a remuneração bruta do servidor e 
 Por esse motivo, o campo "remuneração após deduções" divulgada no Portal da Transparência pode apresentar divergências em relação a informação "líquido a receber" informado no contracheque do cada servidor público.
 
 Provisoriamente, também não estão sendo divulgados no Portal descontos eventuais da remuneração, tais como os auxílios refeição e transporte.
-
-{slider Por que o Portal da Transparência foi criado?|icon}
-
-O Portal da Transparência foi criado com o objetivo de dar mais transparência as ações do governo do Estado, permitindo à sociedade acompanhar a aplicação dos recursos públicos. Dessa forma, propicia o controle social e auxilia o combate à corrupção por diversos setores da sociedade, imprensa e pesquisadores.
 
 {slider Os investimentos apresentados no Portal da Transparência englobam todos os investimentos feitos pelas empresas estatais?|icon}
 
@@ -78,24 +98,5 @@ Todo aquele que guarde, administre, gerencie, arrecade ou utilize bens e valores
 
 Consulte o [Glossário](http://www.transparencia.mg.gov.br/glossario) para esclarecimento dos termos técnicos, siglas e demais expressões utilizadas nos textos explicativos do Portal da Transparência.
 
-{slider Qual a frequência de atualização do Portal da Transparência?|icon}
-
-As despesas são atualizadas diariamente.
-As receitas são atualizadas mensalmente.
-A remuneração de pessoal é atualizada mensalmente, sendo que os arquivos referentes aos anos anteriores ao ano corrente são disponibilizados na seção de [Dados Abertos](http://www.transparencia.dadosabertos.mg.gov.br/dataset/remuneracao-dos-servidores).
-As informações de [Planejamento e Monitoramento](http://www.transparencia.mg.gov.br/planejamento-e-resultados/planejamento-e-monitoramento) são atualizadas bimestralmente.
-Os convênios são atualizados diariamente.
-As transferências de impostos são atualizados mensalmente.
-As Compras e Patrimônio são atualizados diariamente.
-
-{slider Onde são oferecidos os serviços de informação ao cidadão?|icon}
-
-Segundo o Decreto Estadual nº 45.969/2012, para fins do disposto no art. 9º da Lei Federal nº 12.527, de 2011, os serviços de informação ao cidadão são oferecidos por meio dos instrumentos da Política de Atendimento ao Cidadão de que trata o Decreto nº 45.743, de 26 de setembro de 2011, em especial pelas Unidades de Atendimento Integrado – UAI’s, pela Linha de Informação do Governo do Estado de Minas Gerais – LigMinas - 155 e pelo Portal da Transparência do Estado de Minas Gerais, na seção [Acesso a Informação](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html?ReturnUrl=%2fsistema%2f).
-
-{slider Como solicitar uma informação no Portal da Transparência?|icon}
-
-Para solicitar informações relacionadas aos assuntos tratados pelos órgãos e entidades do Poder Executivo Estadual, clique em [Acesso a Informação](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html?ReturnUrl=%2fsistema%2f)
-
-Se você quer pedir uma informação relacionada ao conteúdo do Portal da Transparência, acesse o [fale conosco](http://www.transparencia.mg.gov.br/fale-conosco)
 
 {/sliders}
