@@ -4,9 +4,9 @@ Informações relacionadas ao Portal de Transparência que irão compor a Carta 
 
 ### O que é?
 
-O Portal da Transparência disponibiliza dados e informações públicas de órgãos e entidades do Poder Executivo Estadual (Fundos, Fundações Públicas, Autarquias e Empresas Estatais Dependentes). O Portal atende de maneira ativa a Lei de Acesso a Informação (Lei Federal nº 12.527 de 2011), que regulamenta o direito constitucional do cidadão a acessar as informações públicas e também oferta a ferramenta para solicitações de informações por meio da Lei de Acesso a Informação (E-sic).
+O Portal da Transparência disponibiliza dados e informações públicas de órgãos e entidades do Poder Executivo Estadual (Fundos, Fundações Públicas, Autarquias e Empresas Estatais Dependentes). O Portal atende, de maneira ativa, a Lei de Acesso a Informação (Lei Federal nº 12.527 de 2011), que regulamenta o direito constitucional do cidadão a acessar as informações públicas e também oferta a ferramenta para solicitações de informações por meio da Lei de Acesso a Informação (E-sic).
 
-O Portal da Transparência contem dados e informações sobre os seguintes assuntos:
+O Portal da Transparência contém dados e informações sobre os seguintes assuntos:
 
 * Gastos/despesas públicos dos Poderes do Estado;
 * Receitas ou arrecadação dos Poderes do Estado;
@@ -24,19 +24,26 @@ O Portal da Transparência contem dados e informações sobre os seguintes assun
 * Lei de Acesso a Informação.
 
 ### Quem pode utilizar este serviço?
+
 Todas as pessoas, físicas e jurídicas.
 
 ### Órgão responsável
+
 Controladoria Geral do Estado - CGE
 
 ### Arquivos
-O [Manual do Portal da Transparência](http://transparencia.mg.gov.br/o-que-e#manual-de-navega%C3%A7%C3%A3o) visa orientar o cidadão a navegar pelo Portal da Transparência, fornecendo instruções simples sobre cada modalidade de consulta disponível.
+
+O Manual do Portal da Transparência visa orientar o cidadão a navegar pelo Portal da Transparência, fornecendo instruções simples sobre cada modalidade de consulta disponível.
 
 ___url___: http://transparencia.mg.gov.br/o-que-e#manual-de-navega%C3%A7%C3%A3o
 
 ### Etapas para a realização do serviço
 
-_O manual já descreve o passo a passo_
+O manual citado descreve o passo a passo. Maiores detalhes das informações do Portal podem ser acessadas:
+
+* [O que é o Portal](http://transparencia.mg.gov.br/o-que-e)
+
+* [Perguntas Frequentes](http://transparencia.mg.gov.br/perguntas-frequentes)
 
 ### Legislação
 
