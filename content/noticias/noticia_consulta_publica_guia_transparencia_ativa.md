@@ -1,16 +1,21 @@
-# Participe da consulta pública sobre Transparência Ativa
+# Participe da consulta pública sobre o Guia de Transparência Ativa
 
 Está aberto o prazo para envio de comentários e sugestões à Consulta Pública sobre o [Guia de Transparência Ativa](https://transparencia-mg.github.io/guia-transparencia-ativa/v1/).
 
-O prazo para recebimento de contribuições da consulta pública vai até o dia 10/07/2020 e os interessados podem enviar suas contribuições por meio da página [xxxxxxx](). Finalizada a Consulta Pública, a DTA fará a análise das contribuições e publicará o Guia de Transparência Ativa com as alterações.
+O prazo para recebimento de contribuições da consulta pública vai até o dia 10/07/2020 e os interessados podem enviar suas contribuições diretamente no [texto do guia](https://transparencia-mg.github.io/guia-transparencia-ativa/v1/). 
 
-## Sobre o Guia
+Encontre [aqui](https://github.com/transparencia-mg/guia-transparencia-ativa/blob/master/CONTRIBUTING.md) instruções sobre como participar.
 
-O Guia de Transparência Ativa é o documento elaborado pela Diretoria de Transparência Ativa (DTA/CGE) e que tem por objetivo auxiliar os órgãos e entidades do Poder Executivo Estadual na implementação do Menu Transparência, conforme previsto no art. 8º, inc. VI do Decreto nº 45.969/2012.
+## Sobre o guia
 
-## Governo Aberto
+O Guia de Transparência Ativa é uma compilação de obrigações, cujo objetivo é auxiliar no correto cumprimento da Lei nº 12.527, de 18 de novembro de 2011 - Lei de Acesso à Informação (LAI) e demais normas que regem o assunto.
 
-Essa iniciativa da DTA está alinhada com as políticas de Governo Aberto voltadas para a transparência e a participação social, por meio da construção de documentos públicos com base nos princípios de gestão participativa e democrática.
+Além disso, o guia, em conjunto com o _checklist de transparência ativa_, serve como referência para condução da ação de _Avaliação da transparência ativa nos sítios eletrônicos dos órgãos e entidades do poder executivo do Estado de Minas Gerais_ prevista no Plano de Atividades de Controle Interno (PACI) 2020.
 
-Acesse o Guia de Transparência Ativa na íntegra e dê sua contribuição:
-- [Guia de Transparência Ativa]()
+O Guia de Transparência Ativa substitui o [Guia de Publicação do _menu_ Transparência](http://cge.mg.gov.br/phocadownload/arquivos_diversos/pdf/guia_publicacao_menu_transparencia_versao_5.pdf). 
+
+## Governo aberto
+
+Essa iniciativa está alinhada com os [princípios de Governo Aberto](https://www.opengovpartnership.org/process/joining-ogp/open-government-declaration/) voltadas para promoção da transparência, participação social, integridade, e tecnologia e inovação.
+
+Acesse o Guia de Transparência Ativa na íntegra e dê sua contribuição.
