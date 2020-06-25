@@ -12,7 +12,7 @@ O Guia de Transparência Ativa é uma compilação de obrigações, cujo objetiv
 
 Além disso, o guia, em conjunto com o _checklist de transparência ativa_, serve como referência para condução da ação de _Avaliação da transparência ativa nos sítios eletrônicos dos órgãos e entidades do Poder Executivo do Estado de Minas Gerais_ prevista no Plano de Atividades de Controle Interno (PACI) 2020.
 
-O Guia de Transparência Ativa substitui o [Guia de Publicação do _menu_ Transparência](http://cge.mg.gov.br/phocadownload/arquivos_diversos/pdf/guia_publicacao_menu_transparencia_versao_5.pdf) publicado em 2018. 
+O Guia de Transparência Ativa substitui o [Guia de Publicação do Menu Transparência](http://cge.mg.gov.br/phocadownload/arquivos_diversos/pdf/guia_publicacao_menu_transparencia_versao_5.pdf) publicado em 2018. 
 
 ## Governo aberto
 
