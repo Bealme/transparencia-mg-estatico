@@ -1,8 +1,8 @@
 # Participe da consulta pública sobre o Guia de Transparência Ativa
 
-Está aberto o prazo para envio de comentários e sugestões à Consulta Pública sobre o [Guia de Transparência Ativa](https://transparencia-mg.github.io/guia-transparencia-ativa/v1/).
+Está aberto o prazo para envio de comentários e sugestões à Consulta Pública sobre o [Guia de Transparência Ativa](https://transparencia-mg.github.io/guia-transparencia-ativa/v0/).
 
-O prazo para recebimento de contribuições da consulta pública vai até o dia 10/07/2020 e os interessados podem enviar suas contribuições diretamente no [texto do Guia](https://transparencia-mg.github.io/guia-transparencia-ativa/v1/). 
+O prazo para recebimento de contribuições da consulta pública vai até o dia 10/07/2020 e os interessados podem enviar suas contribuições diretamente no texto do Guia. 
 
 Encontre [aqui](https://github.com/transparencia-mg/guia-transparencia-ativa/blob/master/CONTRIBUTING.md) instruções sobre como participar.
 
