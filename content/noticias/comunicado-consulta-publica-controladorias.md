@@ -9,7 +9,6 @@ A participação na consulta pública é aberta a todos, incluindo os integrante
 
 Assim, solicitamos aos Controladores que divulguem a consulta pública nos órgãos e entidades, lembrando que o prazo para recebimento de contribuições vai até o dia 10/07/2020 e os interessados podem enviar suas contribuições diretamente no texto do Guia.
 
-Acesse as instruções de como participar e dê a sua contribuição
-https://github.com/transparencia-mg/guia-transparencia-ativa/blob/master/CONTRIBUTING.md
+Acesse as [instruções de como participar](https://github.com/transparencia-mg/guia-transparencia-ativa/blob/master/CONTRIBUTING.md) e dê a sua contribuição.
 
 Atenciosamente,
