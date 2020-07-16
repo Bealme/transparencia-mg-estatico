@@ -134,5 +134,11 @@ Todo aquele que guarde, administre, gerencie, arrecade ou utilize bens e valores
 
 Consulte o [Glossário](http://www.transparencia.mg.gov.br/glossario) para esclarecimento dos termos técnicos, siglas e demais expressões utilizadas nos textos explicativos do Portal da Transparência.
 
+{slider Como faço para acessar os empenhos referentes ao Programa Poupança Jovem no Portal da Transparência?|icon}
+
+As informações sobre os empenhos do Programa Poupança Jovem estou disponíveis na consulta de Despesas.
+Acesse o link e consulte os dados dos empenhos: [Poupança Jovem](http://www.transparencia.mg.gov.br/despesa-estado/despesa/despesa-orgaos/2016/01-01-2016/31-12-2016/3504/1792/504/21/43).
+Outras informações podem ser obtidas pelo telefone 0800 970 1212.
+
 
 {/sliders}
