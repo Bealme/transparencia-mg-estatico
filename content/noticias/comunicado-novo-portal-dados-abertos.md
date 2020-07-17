@@ -1,6 +1,6 @@
 [Notícia] CGE lança novo Portal de Dados Abertos
 
-A partir de 18 de julho, a seção de Dados Abertos do Portal da Transparência será sucedida pelo novo [Portal de Dados Abertos]( http://dados.mg.gov.br/). 
+A partir de 18 de julho, a seção de Dados Abertos do Portal da Transparência será descontinuada e substituída pelo novo [Portal de Dados Abertos](http://dados.mg.gov.br/). 
 
 A seção de Dados Abertos do Portal da Transparência teve como escopo dar publicidade a informações sobre os processos de gestão de finanças públicas dos órgãos e entidades do Poder Executivo do Estado de Minas Gerais.
 
@@ -17,5 +17,3 @@ A ampliação do escopo e a publicação dos novos conjuntos de dados ocorrerá 
 - Termos de Parceria e Contratos de Gestão
 
 Se você é um gestor público do Estado de Minas Gerais custodiante de dados e tem interesse em realizar a abertura dos dados da sua unidade, entre em contato pelo email <transparencia@cge.mg.gov.br>. Estamos em busca de parcerias para construção e validação da infraestrutura e processo de publicação de dados abertos antes da expansão da Política de Dados Abertos no Estado de Minas Gerais.
-
-A disponibilização dos dados no antigo Portal de Dados abertos será encerrada a partir de ....?
