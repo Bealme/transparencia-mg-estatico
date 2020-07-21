@@ -11,6 +11,8 @@ No campo social, o Estado de Minas Gerais vem implementando diversas políticas 
 
 Confira as principais ações de **estímulo social** desenvolvidas no combate ao novo coronavírus. 
 
+![Medidas de estímulo social](static/medidas-protecao-social-sedese.pdf)
+
 No campo econômico, foram implementadas pelo Estado de Minas Gerais, políticas de suporte às empresas que têm como foco a manutenção de seu capital humano, físico e organizacional durante o período mais agudo da pandemia. 
 
 Confira as principais ações de **estímulo econômico** desenvolvidas no combate ao novo coronavírus:
