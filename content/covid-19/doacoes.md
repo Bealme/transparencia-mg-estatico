@@ -7,6 +7,7 @@ A força-tarefa para arrecadar contribuições voluntárias em Minas Gerais, é 
 As contribuições podem ser realizadas por meio do Portal MG, na aba [Covid-19 - doe aqui](https://www.mg.gov.br/conteudo/geral/covid-19-doe-aqui).
 
 Acesse aos relatórios com as informações das doações recebidas pela Defesa Civil de Minas Gerais e as informações sobre a destinação dessas doações:
- ![Controle de doações COVD-19 - Gabinete Militar - maio/2020](static/controle-doacoes-covid-gabinete-militar-maio-2020.xlsx)
+
+![Controle de doações COVD-19 - Gabinete Militar - maio/2020](static/controle-doacoes-covid-gabinete-militar-maio-2020.xlsx)
 
 
