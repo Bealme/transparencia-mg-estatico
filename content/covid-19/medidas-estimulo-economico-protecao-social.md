@@ -17,5 +17,5 @@ No campo econômico, foram implementadas pelo Estado de Minas Gerais, políticas
 
 Confira as principais ações de **estímulo econômico** desenvolvidas no combate ao novo coronavírus:
 
-[Clique aqui](xxxx)  e acesse as ações xxxxx desenvolvidas pela Secretaria de Estado xxxxx voltadas para mitigar o impacto da pandemia da COVID-19.
+[CLIQUE AQUI](xxxx) e acesse as ações xxxxx desenvolvidas pela Secretaria de Estado xxxxx voltadas para mitigar o impacto da pandemia da COVID-19.
 
