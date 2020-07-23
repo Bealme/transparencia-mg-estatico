@@ -10,13 +10,13 @@ Aprova a Instrução Normativa que trata dos procedimentos de consultoria sobre 
 [RESOLUÇÃO CGE Nº 18, 21 DE MAIO DE 2020](http://jornal.iof.mg.gov.br/xmlui/bitstream/handle/123456789/234516/caderno1_2020-05-22%202.pdf?sequence=1)  
 Define as ações de auditoria sobre as contratações de bens e serviços destinados ao combate à pandemia do Covid-19.
 
-<< OU LINK PARA O SITE DA CGE >>
---
+**<< OU LINK PARA O SITE DA CGE >>**
+
 
 ## MEDIDAS DE ESTÍMULO SOCIAL
 
-<< LINK PARA O SITE DA SEDESE >>
---
+**<< LINK PARA O SITE DA SEDESE >>**
+
 
 ## MEDIDAS COM FOCO NO CONTRIBUINTE
 
