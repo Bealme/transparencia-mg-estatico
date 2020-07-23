@@ -29,11 +29,11 @@ Período: a partir de março de 2020 (Pandemia Coronavírus)
 
 ## DELIBERAÇÕES DO COMITÊ EXTRAORDINÁRIO COVID-19
 
-[CLIQUE AQUI]((http://www.pesquisalegislativa.mg.gov.br/legislacao.aspx) e acesse todas as Deliberações do Comitê Extraordinário COVID-19
+[CLIQUE AQUI](http://www.pesquisalegislativa.mg.gov.br/legislacao.aspx) e acesse todas as Deliberações do Comitê Extraordinário COVID-19
 
 ## ASSEMBLEIA LEGISLATIVA DE MINAS GERAIS
 
-[CLIQUE AQUI]((https://sites.almg.gov.br/coronavirus/index.html?utm_source=home&utm_medium=megabanner&utm_campaign=coronavirus) e acesse a Central de Monitoramento Coronavírus com links para as matérias em [tramitação](https://www.almg.gov.br/atividade_parlamentar/tramitacao_projetos/index.html?advanced=advanced&first=false&search=odp&pagina=1&aba=js_tabpesquisaAvancada&txtPalavras=%28pec+ou+pl+ou+plc+ou+pre%29.prop.+e+tramitacao.domi.+e+coronavirus.obse.&txtEmTram=on&txtTramEnc=on) e as [leis aprovadas](https://sites.almg.gov.br/coronavirus/acoes-almg/leis-aprovadas.html).
+[CLIQUE AQUI](https://sites.almg.gov.br/coronavirus/index.html?utm_source=home&utm_medium=megabanner&utm_campaign=coronavirus) e acesse a Central de Monitoramento Coronavírus com links para as matérias em [tramitação](https://www.almg.gov.br/atividade_parlamentar/tramitacao_projetos/index.html?advanced=advanced&first=false&search=odp&pagina=1&aba=js_tabpesquisaAvancada&txtPalavras=%28pec+ou+pl+ou+plc+ou+pre%29.prop.+e+tramitacao.domi.+e+coronavirus.obse.&txtEmTram=on&txtTramEnc=on) e as [leis aprovadas](https://sites.almg.gov.br/coronavirus/acoes-almg/leis-aprovadas.html).
 
 ## GOVERNO FEDERAL
 
