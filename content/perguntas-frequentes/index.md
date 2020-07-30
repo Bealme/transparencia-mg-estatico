@@ -136,27 +136,24 @@ Consulte o [Glossário](http://www.transparencia.mg.gov.br/glossario) para escla
 
 {slider Como faço para acessar os empenhos referentes ao Programa Poupança Jovem no Portal da Transparência?|icon}
 
-As informações sobre os empenhos do Programa Poupança Jovem estou disponíveis na consulta de Despesas.
+As informações sobre os empenhos do Programa Poupança Jovem estão disponíveis na consulta de Despesas do Portal da Transparência.
 Acesse o link e consulte os dados dos empenhos: [Poupança Jovem](http://www.transparencia.mg.gov.br/despesa-estado/despesa/despesa-orgaos/2016/01-01-2016/31-12-2016/3504/1792/504/21/43).
-Outras informações podem ser obtidas pelo telefone 0800 970 1212.
+Outras informações podem ser obtidas pelo telefone 0800 970 1212 ou na Secretaria de Estado de Educação.
 
-{slider Como acessar os dados de remuneração dos servidores ativos, aposentados e pensionistas?|icon}
+{slider Como faço para acessar os dados de remuneração dos servidores ativos, aposentados e pensionistas?|icon}
 
 **Servidores Ativos:** Para acessar a Remuneração dos Servidores Ativos referentes aos anos de 2019 e 2020 do Estado de Minas Gerais, acesse a consulta de [Remuneração de Servidores do Portal da Transparência](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores). 
 
-As planilhas referentes aos exercícios anteriores estão disponíveis no [Portal de Dados Abertos](http://www.transparencia.dadosabertos.mg.gov.br/dataset/remuneracao-dos-servidores).
+**Servidores Aposentados ou Pensionistas:** Em relação aos dados dos servidores aposentados e dos pensionistas do Estado de Minas Gerais, o Portal da Transparência do Estado não dispõe de ferramenta para divulgação desses dados. Essas informações podem ser solicitadas aos órgãos gestores das folhas de pagamento do pessoal inativo, quais sejam:
 
-**Servidores Aposentados ou Pensionistas:** Em relação aos dados dos servidores aposentados e dos pensionistas do Estado de Minas Gerais, o Portal da Transparência do Estado ainda não dispõe de ferramenta para divulgação desses dados. Essas informações podem ser solicitadas aos órgãos gestores das folhas de pagamento do pessoal inativo, quais sejam:
-
-* Instituto de Previdência dos Servidores do Estado de Minas Gerais (IPSEMG);
-* Instituto de Previdência dos Servidores Militares do Estado de Minas Gerais (IPSM).
+* Secretaria de Estado de Planejamento e Gestão (SEPLAG) - aposentados;
+* Instituto de Previdência dos Servidores do Estado de Minas Gerais (IPSEMG) - pensionistas;
+* Instituto de Previdência dos Servidores Militares do Estado de Minas Gerais (IPSM) - aposentados e pensionistas militares.
 
 **Outras Informações:** Para solicitar outros dados ou informações que não estejam disponíveis na consulta de Remuneração de Servidores, realize um pedido de acesso à informação aos órgãos gestores dos sistemas de administração de pessoal utilizados no âmbito do Poder Executivo, quais sejam:
 
 * Secretaria de Estado de Planejamento e Gestão (SEPLAG);
 * Polícia Militar de Minas Gerais (PMMG);
 * Corpo de Bombeiros Militar de Minas Gerais (CBMMG).
-
-
 
 {/sliders}
