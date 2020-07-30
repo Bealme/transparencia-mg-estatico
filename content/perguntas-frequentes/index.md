@@ -8,7 +8,7 @@ As informações disponibilizadas neste portal incluem os [órgãos e entidades 
 
 * Dívidas externa e interna do Estado – montante, amortizações e juros - Secretaria de Estado da Fazenda (SEF) e Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
 
-* Remuneração dos servidores do Poder Executivo (do ano corrente, na seção [Pessoal](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores); dos anos anteriores, na seção de [Dados Abertos](http://www.transparencia.dadosabertos.mg.gov.br/dataset/remuneracao-dos-servidores) - órgãos e entidades e Sistema de Administração de Pessoal (SISAP)
+* Remuneração dos servidores do Poder Executivo de 2019 e 2020 na seção [Pessoal](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores) - órgãos e entidades e Sistema de Administração de Pessoal (SISAP)
 
 * Despesa com pessoal dos Poderes do Estado - Sistema Integrado de Administração Financeira de Minas Gerais – (SIAFI-MG);
 
@@ -32,7 +32,7 @@ O Portal da Transparência foi criado com o objetivo de dar mais transparência 
 
 As despesas são atualizadas diariamente.
 As receitas são atualizadas mensalmente.
-A remuneração de pessoal é atualizada mensalmente, sendo que os arquivos referentes aos anos anteriores ao ano corrente são disponibilizados na seção de [Dados Abertos](http://www.transparencia.dadosabertos.mg.gov.br/dataset/remuneracao-dos-servidores).
+A remuneração de pessoal é atualizada mensalmente.
 As informações de [Planejamento e Monitoramento](http://www.transparencia.mg.gov.br/planejamento-e-resultados/planejamento-e-monitoramento) são atualizadas bimestralmente.
 Os convênios são atualizados diariamente.
 As transferências de impostos são atualizados mensalmente.
@@ -62,7 +62,7 @@ Por sua vez, o Governo de Minas Gerais editou:
 
 Considerando os normativos acima, as informações sobre as contratações e aquisições para enfrentar a emergência de saúde pública decorrente da pandemia da COVID-19 estão disponíveis no Portal de Transparência de três formas:
 
-1. Informações relativas às [Compras Emergenciais](http://www.transparencia.dadosabertos.mg.gov.br/dataset/contratacoes-coronavirus) com base na Lei Federal nº 13.979/2020 e na Lei Estadual nº 23.640/2020:
+1. Informações relativas às [Compras Emergenciais](http://dados.mg.gov.br/dataset/compras-emergenciais-covid-19) com base na Lei Federal nº 13.979/2020 e na Lei Estadual nº 23.640/2020:
 
 Destaca-se que como a publicação da Lei nº 23.632/2020, ocorreu em 02 de abril de 2020, parte dos processos já estavam sendo executados em outros programas e após a publicação da Lei nº 23.632/2020 parte passaram a ser executadas diretamente no Programa 26. 
 
