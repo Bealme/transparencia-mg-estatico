@@ -4,16 +4,16 @@ Acesse abaixo a legislação relativa às medidas de prevenção e combate a pan
 
 #### CONTRATAÇÕES EMERGENCIAIS
 
-[Lei Federal nº 13.979, DE 6 de fevereiro de 2020](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L13979.htm)
+[Lei Federal nº 13.979, DE 6 de fevereiro de 2020](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L13979.htm)  
 Dispõe sobre as medidas para enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019.
 
-[Lei Estadual nº 23.640, de 14 de maio de 2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=23640&comp=&ano=2020)
+[Lei Estadual nº 23.640, de 14 de maio de 2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=23640&comp=&ano=2020)  
 Dispõe sobre a transparência nos contratos, convênios e parcerias celebrados em caráter emergencial pela administração pública estadual em razão do estado de calamidade pública decorrente da pandemia de COVID-19.
 
-[Lei Estadual nº 23.641, dE 14 de maio de 2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=23641&comp=&ano=2020)  
+[Lei Estadual nº 23.641, de 14 de maio de 2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=23641&comp=&ano=2020)  
 Dispõe sobre o encaminhamento, à assembleia legislativa e ao tribunal de contas do estado de minas gerais, de informações sobre a aquisição de bens e a contratação de serviços realizadas pelo poder executivo em função do enfrentamento do estado de calamidade pública decorrente da pandemia de covid-19, causada pelo coronavírus.	
 
-[Decreto Estadual nº 113, dE 12 de março dd 2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DNE&num=113&comp=&ano=2020)  
+[Decreto Estadual nº 113, de 12 de março de 2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DNE&num=113&comp=&ano=2020)  
 Declara situação de emergência em saúde pública no estado em razão de surto de doença respiratória – 1.5.1.1.0 – coronavírus e dispõe sobre as medidas para seu enfrentamento, previstas na lei federal nº 13.979, de 6 de fevereiro de 2020.
 
 #### CONTROLE INTERNO
@@ -32,10 +32,10 @@ Dispõe sobre medidas de proteção social para prevenção do contágio e da di
 [Lei Federal nº 14.022, de 7 de julho de 2020](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L14022.htm)  
 Altera a Lei nº 13.979, de 6 de fevereiro de 2020, e dispõe sobre medidas de enfrentamento à violência doméstica e familiar contra a mulher e de enfrentamento à violência contra crianças, adolescentes, pessoas idosas e pessoas com deficiência durante a emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019.
 
-[Lei Estadual nº 23.645, de 28/05/2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=23645&comp=&ano=2020)  
+[Lei Estadual nº 23.645, de 28 de maio 2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=23645&comp=&ano=2020)  
 Dispõe sobre o enfrentamento da violência doméstica e familiar e a proteção social da mulher durante o estado de calamidade pública decorrente da pandemia de Covid-19, causada pelo coronavírus.
 
-[Decreto Estadual nº 47.915, de 10/04/2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=47915&comp=&ano=2020)  
+[Decreto Estadual nº 47.915, de 10 de abril de 2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=47915&comp=&ano=2020)  
 Cria benefício temporário destinado à prestação de assistência alimentar às famílias de estudantes matriculados na educação básica da rede pública Estadual de ensino, nos termos do inciso II do art. 12 da Lei nº 23.631, de 2 de abril de 2020.
 
 [Resolução SEDESE nº 13, de 18 de março de 2020](http://jornal.iof.mg.gov.br/xmlui/bitstream/handle/123456789/232113/caderno1_2020-03-20%209.pdf?sequence=1)  
@@ -44,16 +44,16 @@ Discrimina os serviços públicos que, na qualidade de essenciais, não podem so
 [Resolução SEDESE nº 15, de 13 de abril de 2020.](http://www.sigconsaida.mg.gov.br/wp-content/uploads/arquivos/resolucoes/resolucao_sedese_15_13_04_2020.pdf)
 Dispõe sobre a celebração de convênios e parcerias para execução das ações da SEDESE no Programa de Enfrentamento dos Efeitos da Pandemia de Covid-19, Ação Orçamentária 1049, criada pela Lei Estadual 23.632/2020
 
-[Resolução SEDESE nº 26, de 19/06/2020](http://social.mg.gov.br/images/SUBAS/cestas-basicas/Resoluo-26-2020.pdf)  
+[Resolução SEDESE nº 26, de 19 de junho de 2020](http://social.mg.gov.br/images/SUBAS/cestas-basicas/Resoluo-26-2020.pdf)  
 Dispõe sobre procedimentos e fluxos para racionalizar a instrução na SEDESE para realizar doação de cestas básicas aos Municípios no contexto de enfrentamento aos impactos da pandemia da COVID-19, causada pelo novo coronavírus.
 
-[Deliberação Comitê Extraordinário Covid-19 nº 18, de 22/03/2020](http://www.fazenda.mg.gov.br/coronavirus/instrumentos-normativos/DELIBERACAO-DO-COMITE-EXTRAORDINARIO-COVID-19-N-18-DE-22-DE-MARCO-DE-2020.pdf)  
+[Deliberação Comitê Extraordinário Covid-19 nº 18, de 22 de março 2020](http://www.fazenda.mg.gov.br/coronavirus/instrumentos-normativos/DELIBERACAO-DO-COMITE-EXTRAORDINARIO-COVID-19-N-18-DE-22-DE-MARCO-DE-2020.pdf)  
 Dispõe sobre as medidas adotadas no âmbito do Sistema Estadual de Educação, enquanto durar o estado de CALAMIDADE PÚBLICA em decorrência da pandemia causada pelo agente Coronavírus COVID-19, em todo o território do Estado.
 
 [Portaria do Ministério da Cidadania nº 337, de 24 de março de 2020](http://www.in.gov.br/en/web/dou/-/portaria-n-337-de-24-de-marco-de-2020-249619485)  
 Dispõe acerca de medidas para o enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus, COVID-19, no âmbito do Sistema Único de Assistência Social.
 
-[Portaria do Ministério da Cidadania nº 340, de 30/03/2020](http://www.in.gov.br/en/web/dou/-/portaria-n-340-de-30-de-marco-de-2020-250405535)  
+[Portaria do Ministério da Cidadania nº 340, de 30 de março de 2020](http://www.in.gov.br/en/web/dou/-/portaria-n-340-de-30-de-marco-de-2020-250405535)  
 Estabelece medidas para o enfrentamento da Emergência em Saúde Pública de Importância Nacional decorrente de infecção humana pelo novo coronavírus (COVID-19), no âmbito das Comunidades Terapêuticas.
   
 [Portaria do Ministério da Cidadania nº 54, de 1º de abril de 2020](http://www.in.gov.br/en/web/dou/-/portaria-n-54-de-1-de-abril-de-2020-250849730)  
