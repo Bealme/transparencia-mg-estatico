@@ -80,18 +80,18 @@ Aprova as recomendações para o funcionamento da rede socioassistencial de Prot
 [Clique aqui](http://www.fazenda.mg.gov.br/coronavirus/contribuintes/) e acesse as medidas da Secretaria de Estado de Fazenda de Minas Gerais com foco no contribuinte
 Período: a partir de março de 2020 (Pandemia Coronavírus)
 
-## SECRETARIA ESTADUAL DE SAÚDE
+#### SECRETARIA ESTADUAL DE SAÚDE
 
 [Clique aqui](http://coronavirus.saude.mg.gov.br/legislacoes) e acompanhe as legislações afetas à Secretaria Estadual da Saúde de Minas Gerais.
 
-## DELIBERAÇÕES DO COMITÊ EXTRAORDINÁRIO COVID-19
+#### DELIBERAÇÕES DO COMITÊ EXTRAORDINÁRIO COVID-19
 
 [Clique aqui](http://www.pesquisalegislativa.mg.gov.br/legislacao.aspx) e acesse todas as Deliberações do Comitê Extraordinário COVID-19.
 
-## ASSEMBLEIA LEGISLATIVA DE MINAS GERAIS
+#### ASSEMBLEIA LEGISLATIVA DE MINAS GERAIS
 
 [Clique aqui](https://sites.almg.gov.br/coronavirus/index.html?utm_source=home&utm_medium=megabanner&utm_campaign=coronavirus) e acesse a Central de Monitoramento Coronavírus com links para as matérias em [tramitação](https://www.almg.gov.br/atividade_parlamentar/tramitacao_projetos/index.html?advanced=advanced&first=false&search=odp&pagina=1&aba=js_tabpesquisaAvancada&txtPalavras=%28pec+ou+pl+ou+plc+ou+pre%29.prop.+e+tramitacao.domi.+e+coronavirus.obse.&txtEmTram=on&txtTramEnc=on) e as [leis aprovadas](https://sites.almg.gov.br/coronavirus/acoes-almg/leis-aprovadas.html).
 
-## GOVERNO FEDERAL
+#### GOVERNO FEDERAL
 
 [Clique aqui](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-covid-19) e acompanhe toda a legislação federal relacionada à COVID-19.
