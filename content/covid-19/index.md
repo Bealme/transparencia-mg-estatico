@@ -10,6 +10,8 @@ As informações disponíveis na nova seção são relativas a:
 * [Dados abertos](http://www.transparencia.dadosabertos.mg.gov.br/dataset?tags=coronavirus): todos os conjuntos de dados relacionados a COVID-19 ;
 * [Conselho de Transparência e Combate à Corrupção](http://portaldosconselhos.cge.mg.gov.br/): informações sobre o Conselho de Transparência e Combate à Corrupção e sua atuação no monitoramento e avaliação das ações relacionadas ao enfrentamento da COVID-19; e
 * [Dados Epidemiológicos](http://coronavirus.saude.mg.gov.br/): informações relativas ao boletim epidemiológicos, painel de monitoramento de casos, orientações para o cidadão e outros dados relacionados ao coronavírus divulgadas pela Secretaria de Estado da Saúde.
+* [Doações]():orientações sobre como fazer doações e informações sobre doações recebidas.
+* [Medidas de estímulo econômico e proteção social](): informações sobre as medidas de estímulo econômicas e sociais desenvolvidas no combate a pandemia causada pela COVID-19.
 
 É possível, ainda, solicitar informações relativas à pandemia por meio do [Acesso à Informação](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html?ReturnUrl=%2fsistema%2f) e realizar denúncias, reclamações e sugestões por meio do canal exclusivo da [Ouvidoria](http://www.ouvidoriageral.mg.gov.br/coronavirus).
 
