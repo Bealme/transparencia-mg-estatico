@@ -1,9 +1,7 @@
 
 # Medidas de estímulo econômico e proteção social
 
-A rápida disseminação do coronavírus (COVID-19) pelo mundo constitui um enorme desafio aos sistemas de saúde, consequentemente, são necessárias a adoção de medidas de distanciamento social e restrição de circulação e aglomeração de pessoas, visando reduzir a velocidade de propagação da COVID-19. 
-
-No entanto, as medidas de distanciamento social e quarentena que impedem a produção e a circulação das pessoas têm o efeito imediato de colapsar parcial ou completamente a produção e as vendas de diversos setores durante esse período de isolamento, tendo como resultado uma queda forçada de demanda de consumo e produção. 
+A rápida disseminação do coronavírus (COVID-19) pelo mundo constitui um desafio aos sistemas de saúde, consequentemente, são necessárias a adoção de medidas como o distanciamento social, restrição de circulação e aglomeração de pessoas, visando reduzir a velocidade de propagação da COVID-19. No entanto, essas medidas têm o efeito imediato em diversos setores econômicos, tendo como resultado uma queda forçada de demanda de consumo e produção, gerando desemprego e suspensão ou redução dos contratos de trabalho. 
 
 Para minizar esses efeitos do isolamento social, diversas medidas de enfrentamento e mitigação dos efeitos socioeconômicos da pandemia precisam ser implementadas.
 
