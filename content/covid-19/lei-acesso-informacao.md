@@ -1,4 +1,4 @@
-# Lei de Acesso à Informação
+# Acesso à Informação
 
 O e-SIC (Sistema Eletrônico do Serviço de Informações ao Cidadão) permite que qualquer pessoa, física ou jurídica, encaminhe pedidos de acesso a informação para órgãos e entidades do Poder Executivo Estadual.
 
