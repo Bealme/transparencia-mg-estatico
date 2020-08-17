@@ -4,7 +4,7 @@ Informações relacionadas ao Portal de Transparência que irão compor a Carta 
 
 ### O que é?
 
-O Portal da Transparência disponibiliza dados e informações públicas de órgãos e entidades do Poder Executivo Estadual (Fundos, Fundações Públicas, Autarquias e Empresas Estatais Dependentes). O Portal atende, de maneira ativa, a Lei de Acesso a Informação (Lei Federal nº 12.527 de 2011), que regulamenta o direito constitucional do cidadão a acessar as informações públicas e também oferta a ferramenta para solicitações de informações por meio da Lei de Acesso a Informação (E-sic).
+O Portal da Transparência disponibiliza dados e informações públicas de órgãos e entidades do Poder Executivo Estadual (Fundos, Fundações Públicas, Autarquias e Empresas Estatais Dependentes). O Portal atende, de maneira ativa, a Lei de Responsabilidade Fiscal (Lei Complementar nº 101 de 2000), que estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, a Lei de Acesso a Informação (Lei Federal nº 12.527 de 2011), que regulamenta o direito constitucional do cidadão a acessar as informações públicas e também oferta a ferramenta para solicitações de informações por meio da Lei de Acesso a Informação (e-SIC).
 
 O Portal da Transparência contém dados e informações sobre os seguintes assuntos:
 
