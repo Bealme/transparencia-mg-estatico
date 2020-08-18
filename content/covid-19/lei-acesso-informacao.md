@@ -6,4 +6,6 @@ Por meio do sistema, além de fazer o pedido, será possível acompanhar o prazo
 
 [Clique aqui](http://www.acessoainformacao.mg.gov.br/) e faça a sua solicitação de acesso à informação sobre o enfrentamento ao Coronavírus.
 
-A Controladoria-Geral do Estado de Minas Gerais também disponibiliza para o conhecimento do público os Relatórios Estatísticos em resposta às manifestações sobre ao Coronavírus. O documento pode ser acessado e baixado [clicando aqui]().
+A Controladoria-Geral do Estado de Minas Gerais também disponibiliza para o conhecimento do público os Relatórios Estatísticos em resposta às manifestações sobre ao Coronavírus. 
+
+![](static/relatorio_lai_2020_solicitacoes_covid_20200818.doc)
