@@ -8,7 +8,7 @@ As contribuições podem ser realizadas por meio do Portal MG, na aba Covid-19 -
 
 ![](static/covid-doe-aqui.png).
 
-[Clique aqui]() e acesse os dados das doações recebidas pela força-tarefa, gerenciadas pela Defesa Civil de Minas Gerais, e as informações sobre a destinação dessas doações:
+[Clique aqui](http://dados.mg.gov.br/dataset/doacoes-covid-19) e acesse os dados das doações recebidas pela força-tarefa, gerenciadas pela Defesa Civil de Minas Gerais, e as informações sobre a destinação dessas doações:
 
 
 
