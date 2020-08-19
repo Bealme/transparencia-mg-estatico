@@ -1,14 +1,8 @@
-# [Notícia] Novas funcionalidades no Portal de Transparência
+# [Notícia] Novas funcionalidades no Portal de Transparência: remuneração e valor pago
 
 Com os objetivos de agregar informações e facilitar a navegação às consultas do Portal da Transparência de Minas Gerais, o cidadão agora tem à disposição novas funcionalidades.
 
-A consulta de Remuneração de servidores do Poder Executivo Estadual foi reestruturada, de forma que o cidadão poderá consultar:
-
-* o histórico da remuneração,
-
-* o histórico funcional de um servidor 
-
-* bem como realizar o download do histórico da remuneração do servidor selecionado.
+A consulta de Remuneração de servidores do Poder Executivo Estadual foi reestruturada, de forma que o cidadão poderá consultar o histórico mensal da remuneração de determinado servidor, numa mesma página, bem como realizar o download desse histórico, que inclui também a situação funcional do servidor selecionado em cada mês.
 
 ![](static/remuneracao-servidores.gif)
 
