@@ -7,9 +7,11 @@ A consulta de Remuneração de servidores do Poder Executivo Estadual foi reestr
 
 ![](static/remuneracao-servidores.gif)
 
+
 Outra novidade é a inclusão da remuneração bruta e líquida nas tabelas de resultados da navegação por filtros.
+
 
 ![](static/remuneracao-servidores.jpg)
 
-valor Além disso, atendendo a demandas dos cidadãos o formulário de detalhamento das consulta de Despesa, Restos a Pagar e Diárias passa a exibir a situação da ordem de pagamento. Essa alteração visa sanar as dúvidas dos credores sobre a data do efetivo depósito dos valores registrados como pagos no Portal de Transparência.
+Além disso, atendendo a demandas dos cidadãos o formulário de detalhamento das consulta de Despesa, Restos a Pagar e Diárias passa a exibir a situação da ordem de pagamento. Essa alteração visa sanar as dúvidas dos credores sobre a data do efetivo depósito dos valores registrados como pagos no Portal de Transparência.
 ![](static/situacao-op.png)
