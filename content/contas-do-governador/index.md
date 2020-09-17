@@ -25,6 +25,10 @@ http://www.fazenda.mg.gov.br/governo/contadoria_geral/relatorio_contabil/
 
 A Lei Complementar 101, de 04 de maio de 2000, Lei de Responsabilidade Fiscal - LFR, identificou entre os instrumentos de transparência da gestão fiscal os Relatórios Resumido de Execução Orçamentária – RREO e o de Gestão Fiscal - RGF
 
+Conforme previsto da LRF, os relatórios serão disponibilizados nos seguintes prazos:
+- Relatório Resumido de Execução Orçamentária - RREO até 30 dias após o encerramento de cada bimestre (art. 32, caput);
+- Relatório de Gestão Fiscal - RGF até 30 dias após o encerramento de cada quadrimestre (art. 55, §2º).
+
 Aqui você encontrará os RREO e RGF referentes ao ano atual e dos anos anteriores, até o anos de 2003:
 
 http://www.fazenda.mg.gov.br/governo/contadoria_geral/lei_responsabilidade_fiscal/
