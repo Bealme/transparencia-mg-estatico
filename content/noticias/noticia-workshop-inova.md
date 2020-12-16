@@ -1,6 +1,6 @@
 ## Está no ar a Oficina de Dados Abertos sem Fricção
 
-Está disponível [neste link](https://www.youtube.com/embed/tZ0bmlnqMuY) a oficina _"Dados abertos sem fricção"_, ocorrida durante a [3ª Semana INOVA](https://www.inova.mg.gov.br/). A oficina teve como objetivo apresentar o processo de documentação, validação e publicação de um conjunto de dados, além de ter comunicado a importância da adoção de boas práticas nesse processo, de acordo com requisitos legais. 
+Está disponível a oficina _"Dados abertos sem fricção"_ ([vídeo](https://www.youtube.com/watch?v=tZ0bmlnqMuY) e [apresentação](https://ead.prodemge.gov.br/pluginfile.php/19736/mod_resource/content/2/Dados%20Abertos%20sem%20friccao-DCTA-CGE.pdf)), ocorrida durante a [3ª Semana INOVA](https://www.inova.mg.gov.br/). A oficina teve como objetivo apresentar o processo de documentação, validação e publicação de um conjunto de dados, além de ter comunicado a importância da adoção de boas práticas nesse processo, de acordo com requisitos legais. 
 
 ### Sobre os dados sem fricção 
 
