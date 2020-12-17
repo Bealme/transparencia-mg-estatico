@@ -13,7 +13,7 @@ O conteúdo da oficina, que demonstra as decisões de arquitetura empregadas pel
 
 Conheça mais um pouco sobre a importância dos dados abertos, suas diferenças e complementaridades com o Portal da Transparência no [17º episódio do **PodeFalar!**](https://www.youtube.com/watch?v=uFdYbIc_4ws), o podcast da CGE, em que a Subcontroladora de Transparência e Integridade, Nicolle Bleme, conversou com a Diretora-Executiva da Open Knowledge Brasil, Fernanda Campagnucci.
 
-Para connhecer o novo Portal de Dados Abertos do Estado de Minas Gerais [clique aqui](http://dados.mg.gov.br/).
+Para conhecer o novo Portal de Dados Abertos do Estado de Minas Gerais [clique aqui](http://dados.mg.gov.br/).
 
 
 
