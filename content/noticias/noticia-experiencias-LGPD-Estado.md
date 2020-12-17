@@ -1,6 +1,6 @@
 # Experiências de Implementação da LGPD no Estado
 
-Está disponível o painel _"“Experiências de Implementação da LGPD pela Administração Pública”"_ ([vídeo](https://www.youtube.com/watch?v=dmM0sVWxTLQ&feature=youtu.be), ocorrido durante a [3ª Semana INOVA](https://www.inova.mg.gov.br/). "O painel vai trazer experiências diferentes, em que cada órgão vai mostrar o trabalho com a Lei Geral de Proteção de Dados Pessoais (LGPD) por um viés: a AGE vai tratar da cultura, a Prodemge do inventário e conscientização, a Hemominas do planejamento e ferramentas e a CGE vai abordar um paralelo entre a transparência (LAI) e a privacidade (LGPD).', coforme Beatriz Loureiro, Diretora de Transparência Passiva da CGE-MG. 
+Está disponível o painel _“Experiências de Implementação da LGPD pela Administração Pública”_ ([vídeo](https://www.youtube.com/watch?v=dmM0sVWxTLQ&feature=youtu.be)), ocorrido durante a [3ª Semana INOVA](https://www.inova.mg.gov.br/). "O painel vai trazer experiências diferentes, em que cada órgão vai mostrar o trabalho com a Lei Geral de Proteção de Dados Pessoais (LGPD) por um viés: a AGE vai tratar da cultura, a Prodemge do inventário e conscientização, a Hemominas do planejamento e ferramentas e a CGE vai abordar um paralelo entre a transparência (LAI) e a privacidade (LGPD).", segundo Beatriz Loureiro, Diretora de Transparência Passiva da CGE-MG. 
 
 ## Sobre a LGPD e as estratégias no âmbito do Poder Executivo Estadual
 
