@@ -8,10 +8,6 @@ A Lei Geral de Proteção de Dados Pessoais regula o tratamento de dados pessoai
  
 Para se adequar à LGPD, o Estado constituiu o Grupo de Trabalho/GT sobre Lei Geral de Proteção de Dados Pessoais, pela Resolução Conjunta SEPLAG/CGE/SEF/AGE/PRODEMGE Nº 10.064, de 29 de julho de 2019. O GT vem realizando reuniões técnicas regularmente, para a elaboração de um Programa de Implantação da Lei Geral de Proteção de Dados, bem como um Plano de Ação para o desenvolvimento da Política de Proteção de Dados Pessoais, no âmbito do Estado, e ainda realiza articulação técnica com especialistas de outros entes.
 
-#### Modificações em Consultas do Portal da Transparência
-
-[^] chamada para a notícia sobre descaracterização dos CPF
-
 ## Saiba mais
 
 #### Novo Portal reúne informações sobre a Lei Geral de Proteção de Dados do Estado de Minas Gerais
