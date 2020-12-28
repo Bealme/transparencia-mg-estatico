@@ -107,7 +107,9 @@ Em 2020, iniciou-se uma série de correções e melhorias nas consultas atuais d
  
 - Inclusão de nova funcionalidade na Pesquisas Avançada das consultas do Portal
 
+- Mudança do leiaute da consulta de remuneração
 
+- Descaracterização do Cadastro de Pessoa Física dos credores de despesas, aprovados em concursos públicos e responsáveis por patrimônio
 
 {slider Manual de Navegação|icon}
 
