@@ -1,6 +1,8 @@
 # [Notícia] Descaracterização do CPF nas consultas do Portal
 
-As consultas do Portal da Transparência que necessitam da divulgação do Cadastro de Pessoa Física (CPF) para identificar o beneficiário de despesa pública passaram a apresentar essa informação de forma descaracterizada. Tal método consiste em ocultar os três primeiros dígitos e os dois últimos dígitos verificadores dos CPFs:
+As consultas do Portal da Transparência que necessitam da divulgação do Cadastro de Pessoa Física (CPF) para identificar o beneficiário de despesa pública passaram a apresentar essa informação de forma descaracterizada - salvo quando existir interesse público na divulgação do CPF, como, por exemplo, responsáveis por contratos administrativos.
+
+Em todas as demais situações em qu o CPF estiver descaracterizado, o método consiste em ocultar os três primeiros dígitos e os dois últimos dígitos verificadores dos CPFs:
 
 ![](static/cpf.gif)
 
@@ -24,4 +26,4 @@ Nesse sentido, o Grupo de Trabalho da LGPD no Estado, instituído pela Resoluç�
 
 A descaracterização de parte do número CPF e de outros documentos de identificação civil foram contemplados na identificação dos aprovados em concursos públicos, nos credores do Estado e dos terceiros responsáveis por algum patrimônio ou veículo.
 
-Desse modo, a CGE preserva o dever de transparência, sedimentado na Lei de Acesso à Informação, e o dever de proteção dados pessoais, de que trata a Lei Geral de Proteção de Dados.
+Acesse [aqui]() o Parecer Jurídico AGE 16.248
