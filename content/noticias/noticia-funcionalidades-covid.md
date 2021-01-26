@@ -1,5 +1,5 @@
 
-# [Notícia] Portal da Transparência amplia a qualidade das informações das ações de Combate a pandemia caudada pela COVID-19
+# [Notícia] Portal da Transparência amplia a qualidade das informações das ações de Combate a pandemia causada pela COVID-19
 
 Visando melhorar a qualidade das informações divulgadas no Portal da Transparência para as ações de enfrentamento ao combate a pandemia da COVID-19, a Controladoria-Geral do Estado em parceria com a Secretaria de Estado de Desenvolvimento Econômico (Sede), Secretaria de Estado de Desenvolvimento Social (Sedese), Ouvidoria-Geral do Estado de Minas Gerais (OGE),  Secretaria de Estado de Planejamento e Gestão (Seplag), Secretaria de Estado de Infraestrutura e Mobilidade (Seinfra); Defesa Civil de Minas Gerais e Companhia de Tecnologia da Informação do Estado de Minas Gerais (Prodemge) amplia o rol de funcionalidades do Portal da Transparência.
 
