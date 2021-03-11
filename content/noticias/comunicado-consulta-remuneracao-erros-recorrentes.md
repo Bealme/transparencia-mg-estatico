@@ -6,11 +6,15 @@ A Controladoria-Geral do Estado (CGE), gestora do Portal da Transparência, e a 
 
 Os valores de nov/2020 e dez/2020 já foram corrigidos e disponibilizados no Portal.
 
-#### Valores de décimo terceiro e outros descontos 
+#### Valores de 13º salário e outros descontos 
 
-Uma outra dierença de que pode ser notada está nos valores demonstrados no Portal para o contracheque do mês de dezembro. Os valores relativos ao 13º salário são demonstrados integralmente no mês de dezembro, ainda que o pagamento efetivo não tenha ocorrido. Portanto, essa divergência entre o mês de publicização dos dados e os meses de percepção dos valores dessa verba **não se consistem num erro**.
+Os valores relativos ao 13º salário são demonstrados integralmente no mês de dezembro, ainda que o pagamento efetivo não tenha ocorrido. Portanto, o lapso temporal entre o mês de publicização dos dados e os meses de recebimento dos valores dessa verba **não representam dados inconsistentes**.
 
-De forma similar, outras diferenças podem ser notadas entre o "valor líquido a receber" demonstrado no contracheque e o campo "remuneração após deduções" divulgado no Portal da Transparência. Descontos de natureza pessoal do servidor, como empréstimos consignados, contribuições sindicais, descontos de assistência saúde, de pensões alimentícias, ou outros de cunho pessoal, relativos à intimidade, vida privada, honra e imagem, não são informados ou subtraídos da remuneração bruta do servidor. Provisoriamente, também não estão sendo divulgados no Portal descontos eventuais da remuneração, tais como auxílios refeição, auxílio transporte e faltas ao serviço. Essa explicação de quais verbas estão demonstradas no Portal pode ser encontrada [aqui](http://www.transparencia.mg.gov.br/perguntas-frequentes#no-portal-da-transpar%C3%AAncia-s%C3%A3o-divulgadas-todas-as-verbas-do-sal%C3%A1rio-do-servidor-p%C3%BAblico).
+Além disso, outras diferenças podem ser notadas entre o "valor líquido a receber" demonstrado no contracheque e o campo "remuneração após deduções" divulgado no Portal da Transparência. 
+
+Descontos de natureza pessoal do servidor, como empréstimos consignados, contribuições sindicais, descontos de assistência saúde, de pensões alimentícias, ou outros de cunho pessoal, relativos à intimidade, vida privada, honra e imagem, não são informados ou subtraídos da remuneração bruta do servidor. Provisoriamente, também não estão sendo divulgados no Portal descontos eventuais da remuneração, tais como auxílios refeição, auxílio transporte e faltas ao serviço. 
+
+A explicação de quais verbas estão demonstradas no Portal pode ser encontrada [aqui](http://www.transparencia.mg.gov.br/perguntas-frequentes#no-portal-da-transpar%C3%AAncia-s%C3%A3o-divulgadas-todas-as-verbas-do-sal%C3%A1rio-do-servidor-p%C3%BAblico).
 
 Se você é um servidor público estadual e ainda identificou divergências entre em contato pelo [Fale Conosco](http://www.transparencia.mg.gov.br/faleconosco).
 
