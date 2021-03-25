@@ -31,7 +31,9 @@ https://www.almg.gov.br/acompanhe/planejamento_orcamento_publico/contas_tcemg.ht
 
 ## Julgamento das contas
 
-Compete privativamente à ALMG julgar, anualmente, as contas prestadas pelo Governador do Estado. 
+Compete privativamente à ALMG julgar, anualmente, as contas prestadas pelo Governador do Estado (link). 
+
+https://www.almg.gov.br/consulte/legislacao/index.html?aba=js_tabLegislacaoMineira&subaba=js_tabLegislacaoMineiraSimples&tipoPesquisa=simples&pageNum=1&sltNorma=Resolucao&txtNum=&txtAno=&txtAss=CONTAS+E+GOVERNADOR+E+APROVACAO&txtPerIni=&txtPerFim=&tipoOrdem=2&sltResultPagina=10
 
 # Demais instrumentos de Transparência da Gestão Fiscal
 
