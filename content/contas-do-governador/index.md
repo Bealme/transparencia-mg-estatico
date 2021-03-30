@@ -8,32 +8,33 @@ Para disciplinar e organizar a apresentação das Contas de Governo, o Tribunal 
 
 2. **Relatório Contábil:** é o relatório que trata da obrigação contida na [Instrução Normativa nº 13/2011](https://www.tce.mg.gov.br/IMG/Legislacao/legiscont/Instrucoes%20Normativas/IN_2011/IN-13-11.pdf), do Tribunal de Contas do Estado de Minas Gerais, elaborado pelo Órgão Central de Contabilidade da Administração Estadual; e,
 
-3. **Balanço Social:** é o relatório que evidencia instrumentos de planejamento e avaliação social, na forma da Lei 15.011, de 15 de janeiro de 2004.
+3. **Balanço Social:** é o relatório que evidencia instrumentos de planejamento e avaliação social, na forma da Lei nº 15.011, de 15 de janeiro de 2004.
 
-Esses documentos podem ser acessados no site da [Secretaria de Estado da Fazenda](http://www.fazenda.mg.gov.br/governo/contadoria_geral/relatorio_contabil/) como também no site da [Assembleia Legislativa do Estado de Minas Gerais](https://www.almg.gov.br/acompanhe/planejamento_orcamento_publico/contas_governador.html)
+Esses documentos podem ser acessados no site da [Secretaria de Estado da Fazenda](http://www.fazenda.mg.gov.br/governo/contadoria_geral/relatorio_contabil/) e no site da [Assembleia Legislativa do Estado de Minas Gerais](https://www.almg.gov.br/acompanhe/planejamento_orcamento_publico/contas_governador.html)
 
-Após a elaboração, os documentos da Contas do Governador são enviados aos seguintes órgãos para avaliação e julgamento: Controladoria-Geral do Estado para emissão do Relatório de Controle Interno; Tribunal de Contas do Estado para emissão de Parecer Prévio sobre as contas do Governador; e, para a Assembleia Legislativa do Estado de Minas Gerais para Julgamento das Contas
+Após a elaboração pelos os responsáveis os documentos da Contas do Governador são enviados aos seguintes órgãos:
+* Controladoria-Geral do Estado para emissão do Relatório de Controle Interno; 
+* Tribunal de Contas do Estado para emissão de Parecer Prévio e
+* Assembleia Legislativa do Estado de Minas Gerais para Julgamento das Contas.
 
 ## Relatório de Controle Interno
 
-O Relatório de Controle Interno [RCI](https://www.tce.mg.gov.br/IMG/Legislacao/legiscont/Instrucoes%20Normativas/IN_2011/IN-13-11.pdf) é elaborado anualmente pela Controladoria-Geral do Estado e contém o parecer conclusivo do órgão central do Sistema de Controle Interno sobre as contas de governo. O RCI é enviado junto com as contas do Governador para o Tribunal de Contas e para a Assembleia Legislativa de Minas Gerais.
+O Relatório de Controle Interno - [RCI](https://www.tce.mg.gov.br/IMG/Legislacao/legiscont/Instrucoes%20Normativas/IN_2011/IN-13-11.pdf) é elaborado anualmente pela Controladoria-Geral do Estado e contém o parecer conclusivo do órgão central do Sistema de Controle Interno sobre as contas de governo. O RCI é enviado junto com as contas do Governador para o Tribunal de Contas e para a Assembleia Legislativa de Minas Gerais.
 
 Aqui você encontrará os Relatórios de Controle Interno elaborados pela Controladoria-Geral do Estado:
 https://www.almg.gov.br/acompanhe/planejamento_orcamento_publico/contas_governador.html
 
 ## Parecer prévio
 
-As contas anuais do Governador serão examinadas pelo Tribunal de Contas do Estado de Minas Gerais (TCE/MG), que emitirá parecer prévio no prazo de sessenta dias, a contar de seu recebimento. 
+As contas anuais do Governador serão examinadas pelo Tribunal de Contas do Estado de Minas Gerais - TCE/MG, que emitirá parecer prévio no prazo de sessenta dias, a contar de seu recebimento. 
 
-Após o exame pelo TCEMG, o Parecer Prévio é tornado público e publicado no Diário Oficial de Contas. 
+Após o exame pelo TCE/MG, o Parecer Prévio é tornado público por meio do [Diário Oficial de Contas](https://www.almg.gov.br/acompanhe/planejamento_orcamento_publico/contas_tcemg.html).
 
-Na página da Assembleia Legislativa de Minas Gerais é possível acessar o parecer prévio do Tribunal de Contas (TCE/MG) - após publicação do [Diário Oficial de Contas](https://www.almg.gov.br/acompanhe/planejamento_orcamento_publico/contas_tcemg.html), bem como também os documentos referentes ao processo de prestação de contas do governador do Estado, em cada exercício.
+Na página da Assembleia Legislativa de Minas Gerais é possível acessar o parecer prévio do Tribunal de Contas - TCE/MG, bem como também os documentos referentes ao processo de prestação de contas do governador do Estado, em cada exercício.
 
 ## Julgamento das contas
 
-Em seguida, os documentos das contas anuais do Governador são julgados pela Assembleia Legislativa do Estado de Minas Gerais.
-
-O julgamento das contas são publicadas pela Assembleia Legislativa do Estado de Minas Gerais no Diário Oficial do Legislativo e podem ser consultadas na página da [ALMG](https://www.almg.gov.br/consulte/legislacao/index.html?aba=js_tabLegislacaoMineira&subaba=js_tabLegislacaoMineiraSimples&tipoPesquisa=simples&pageNum=1&sltNorma=Resolucao&txtNum=&txtAno=&txtAss=CONTAS+E+GOVERNADOR+E+APROVACAO&txtPerIni=&txtPerFim=&tipoOrdem=2&sltResultPagina=10).
+O julgamento das contas anuais do Governador é realizado e publicado pela Assembleia Legislativa do Estado de Minas Gerais no Diário Oficial do Legislativo e podem ser consultadas na página da [ALMG](https://www.almg.gov.br/consulte/legislacao/index.html?aba=js_tabLegislacaoMineira&subaba=js_tabLegislacaoMineiraSimples&tipoPesquisa=simples&pageNum=1&sltNorma=Resolucao&txtNum=&txtAno=&txtAss=CONTAS+E+GOVERNADOR+E+APROVACAO&txtPerIni=&txtPerFim=&tipoOrdem=2&sltResultPagina=10).
 
 # Demais instrumentos de Transparência da Gestão Fiscal
 
