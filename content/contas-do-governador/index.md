@@ -13,6 +13,7 @@ Para disciplinar e organizar a apresentação das Contas de Governo, o Tribunal 
 Esses documentos podem ser acessados no site da [Secretaria de Estado da Fazenda](http://www.fazenda.mg.gov.br/governo/contadoria_geral/relatorio_contabil/) e no site da [Assembleia Legislativa do Estado de Minas Gerais](https://www.almg.gov.br/acompanhe/planejamento_orcamento_publico/contas_governador.html)
 
 Após a elaboração pelos responsáveis os documentos que compõem as Contas do Governador são enviados aos seguintes órgãos:
+
 * Controladoria-Geral do Estado para emissão do Relatório de Controle Interno; 
 * Tribunal de Contas do Estado para emissão de Parecer Prévio; e,
 * Assembleia Legislativa do Estado de Minas Gerais para Julgamento das Contas.
@@ -36,15 +37,16 @@ O julgamento das contas anuais do Governador é realizado e publicado pela Assem
 
 # Demais instrumentos de Transparência da Gestão Fiscal
 
-- [Relatório Resumido da Execução Orçamentária (RREO)](http://www.fazenda.mg.gov.br/governo/contadoria_geral/lei_responsabilidade_fiscal/): é um documento mensal disponibilizado pelo Tesouro Estadual que permite o acompanhamento e análise do desempenho das ações governamentais estabelecidas na Lei de Diretrizes Orçamentárias (LDO) e na Lei Orçamentária Anual (LOA).
+- [Relatório Resumido da Execução Orçamentária (RREO)](http://www.fazenda.mg.gov.br/governo/contadoria_geral/lei_responsabilidade_fiscal/): é um relatório bimestral, publicado até trinta dias após o encerramento de cada bimestre pelo Poder Executivo, mas que abrange todos os Poderes e o Ministério Público, que visa permitir o monitoramento e controle da execução orçamentária.
 
-- [Relatório de Gestão Fiscal (RGF)](http://www.fazenda.mg.gov.br/governo/contadoria_geral/lei_responsabilidade_fiscal/): é um documento quadrimestral disponibilizado pelo Tesouro Estadual que compara os limites estabelecidos na Lei de Responsabilidade Fiscal, como Despesas com Pessoal, distinguindo gastos com inativos e pensionistas, Dívida Consolidada e Mobiliária, Concessão de Garantias, Contratação de Operações de Crédito e Despesas com Juros
+- [Relatório de Gestão Fiscal (RGF)](http://www.fazenda.mg.gov.br/governo/contadoria_geral/lei_responsabilidade_fiscal/): é um relatório quadrimestral, publicado pelos titulares dos Poderes e órgãos até trinta dias após o encerramento de cada quadrimestre, que visa permitir a avaliação da responsabilidade na gestão fiscal por meio da verificação do cumprimento dos limites fiscais estabelecidos na LRF, como despesa total com pessoal e dívida consolidada líquida.
 
 - [Atendimento dos Índices Constitucionais](http://www.fazenda.mg.gov.br/governo/contadoria_geral/atendimentos_constitucionais/index_novo_indices2020.html): são os relatórios elaborados pelo Tesouro Estadual que evidenciam o investimento mínimo nas obrigações consideradas relevantes para a sociedade, como saúde, educação, transporte e pesquisa.
 
-- [Demonstrativo da LDO](http://www.fazenda.mg.gov.br/governo/contadoria_geral/demonstrativos_ldo/): são os demonstrativos quadrimestrais da execução da despesa por função, subfunção, programas e ações.
+- [Programa de Reestruturação e Ajuste Fiscal](http://www.fazenda.mg.gov.br/governo/contadoria_geral/programadeajuste/): é um programa celebrado entre o Estado e a União que estabelece estratégias, metas e ações que viabilizam o equilíbrio fiscal das contas do Estado, de forma a assegurar o cumprimento dos compromissos assumidos com o pagamento do serviço da dívida então refinanciada.
 
-- [Programa de Reestruturação e Ajuste Fiscal](http://www.fazenda.mg.gov.br/governo/contadoria_geral/programadeajuste/): é o programa de Reestruturação e Ajuste Fiscal que estabelece estratégias, metas e ações programadas que viabilizam o equilíbrio fiscal das contas do Estado, de forma a assegurar o cumprimento dos compromissos assumidos com o pagamento do serviço da dívida então refinanciada.
+- [Demonstrativo](http://www.fazenda.mg.gov.br/governo/contadoria_geral/demonstrativos_ldo/) de acompanhamento quadrimestral da execução da despesa por função, subfunção, programas e ações, em formato de planilha eletrônica.
+
 
 
 
