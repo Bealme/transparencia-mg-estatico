@@ -1,20 +1,20 @@
 # Contas do Governador
 
-As contas do Governador são o conjunto de demonstrativos, documentos e informações de natureza contábil, financeira, orçamentária, operacional e patrimonial que permitam avaliar, sob os aspectos técnicos e legais, a regularidade da macrogestão dos recursos públicos a cargo do Chefe do Poder Executivo, em especial, as funções de planejamento, organização, direção e controle de políticas públicas e devem ser apresentadas anualmente à Assembleia Legislativa pelo Governador [Art. 90, inc. XII, da Constituição Estadual do Estado de Minas Gerais](https://www.almg.gov.br/export/sites/default/consulte/legislacao/Downloads/pdfs/ConstituicaoEstadual.pdf).
+As contas do Governador são o conjunto de demonstrativos, documentos e informações de natureza contábil, financeira, orçamentária, operacional e patrimonial que permitam avaliar, sob os aspectos técnicos e legais, a regularidade da macrogestão dos recursos públicos a cargo do Chefe do Poder Executivo, em especial, as funções de planejamento, organização, direção e controle de políticas públicas e devem ser apresentadas anualmente à Assembleia Legislativa pelo Governador de acordo com o [Art. 90, inc. XII, da Constituição Estadual do Estado de Minas Gerais](https://www.almg.gov.br/export/sites/default/consulte/legislacao/Downloads/pdfs/ConstituicaoEstadual.pdf).
 
 Para disciplinar e organizar a apresentação das Contas de Governo, o Tribunal de Contas de Minas Gerais editou a [Instrução Normativa nº 13/2011](https://www.tce.mg.gov.br/projetocontas/atos/IN-13-11.pdf) que define os documentos contábeis a serem encaminhados pelo Chefe do Poder Executivo Estadual, entre eles estão: o Balanço Geral do Estado, o Relatório Contábil e o Balanço Social
 
 1. 	**Balanço Geral do Estado:** é composto pelas demonstrações contábeis atinentes à execução orçamentária, financeira e patrimonial da Administração Pública Direta, das Autarquias, das Fundações, dos Fundos Estaduais e da execução orçamentária das Empresas Estatais Dependentes;
 
-2. **Relatório Contábil:** é o relatório que trata da obrigação contida na [Instrução Normativa nº 13/2011](https://www.tce.mg.gov.br/IMG/Legislacao/legiscont/Instrucoes%20Normativas/IN_2011/IN-13-11.pdf), do Tribunal de Contas do Estado de Minas Gerais, elaborado pelo Órgão Central de Contabilidade da Administração Estadual; e,
+2. **Relatório Contábil:** é o relatório que elaborado pelo órgão central de contabilidade da administração estadual, contendo as notas explicativas sobre atos e fatos não suficientemente evidenciados pelas demonstrações contábeis, incluindo os critérios utilizados na elaboração das demonstrações contábeis, das informações de naturezas patrimonial, orçamentária, econômica e financeira.
 
-3. **Balanço Social:** é o relatório que evidencia instrumentos de planejamento e avaliação social, na forma da Lei nº 15.011, de 15 de janeiro de 2004.
+3. **Balanço Social:** é o relatório que evidencia instrumentos de planejamento e avaliação social, com base na comparação entre as metas estabelecidas nos Anexos Sociais e a execução dos programas, projetos e ações constantes no Orçamento para alcançá-las, conforme previsto da [Lei nº 15.011, de 15 de janeiro de 2004](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=15011&comp=&ano=2004).
 
 Esses documentos podem ser acessados no site da [Secretaria de Estado da Fazenda](http://www.fazenda.mg.gov.br/governo/contadoria_geral/relatorio_contabil/) e no site da [Assembleia Legislativa do Estado de Minas Gerais](https://www.almg.gov.br/acompanhe/planejamento_orcamento_publico/contas_governador.html)
 
-Após a elaboração pelos os responsáveis os documentos da Contas do Governador são enviados aos seguintes órgãos:
+Após a elaboração pelos responsáveis os documentos que compõem as Contas do Governador são enviados aos seguintes órgãos:
 * Controladoria-Geral do Estado para emissão do Relatório de Controle Interno; 
-* Tribunal de Contas do Estado para emissão de Parecer Prévio e
+* Tribunal de Contas do Estado para emissão de Parecer Prévio; e,
 * Assembleia Legislativa do Estado de Minas Gerais para Julgamento das Contas.
 
 ## Relatório de Controle Interno
@@ -26,11 +26,9 @@ https://www.almg.gov.br/acompanhe/planejamento_orcamento_publico/contas_governad
 
 ## Parecer prévio
 
-As contas anuais do Governador serão examinadas pelo Tribunal de Contas do Estado de Minas Gerais - TCE/MG, que emitirá parecer prévio no prazo de sessenta dias, a contar de seu recebimento. 
+As contas anuais do Governador serão examinadas pelo Tribunal de Contas do Estado de Minas Gerais - TCE/MG, que emitirá parecer prévio no prazo de sessenta dias, a contar de seu recebimento. Após o exame pelo TCE/MG, o Parecer Prévio é tornado público no [Diário Oficial de Contas](https://www.almg.gov.br/acompanhe/planejamento_orcamento_publico/contas_tcemg.html).
 
-Após o exame pelo TCE/MG, o Parecer Prévio é tornado público por meio do [Diário Oficial de Contas](https://www.almg.gov.br/acompanhe/planejamento_orcamento_publico/contas_tcemg.html).
-
-Na página da Assembleia Legislativa de Minas Gerais é possível acessar o parecer prévio do Tribunal de Contas - TCE/MG, bem como também os documentos referentes ao processo de prestação de contas do governador do Estado, em cada exercício.
+Na página da Assembleia Legislativa de Minas Gerais também é possível acessar o parecer prévio do Tribunal de Contas - TCE/MG, bem como os demais documentos referentes ao processo de prestação de contas do governador do Estado, em cada exercício.
 
 ## Julgamento das contas
 
