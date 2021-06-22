@@ -1,4 +1,4 @@
-[Notícia] Atualização da consulta de Termos de Parceria e Contratos de Gestão
+# [Notícia] Atualização da consulta de Termos de Parceria e Contratos de Gestão
 
 A partir de 21 de junho de 2021, a consulta de Termos de Parceria e Contratos de Gestão passa a apresentar novos dados visando ampliar a qualidade das informações disponibilizadas.  
 
