@@ -2,7 +2,7 @@
 
 A partir de 21 de junho de 2021, a consulta de Termos de Parceria e Contratos de Gestão passa a apresentar novos dados visando ampliar a qualidade das informações disponibilizadas.  
 
-![](static/termos-parceria.png)
+![](static/imagem-termos-parceria.png)
 
 A consulta apresenta um extrato das informações dos Termos de Parceria e Contratos de Gestão firmados pelos órgãos e entidades do Poder Executivo Estadual com entidades privadas sem fins lucrativos, qualificadas como Organizações da Sociedade Civil de Interesse Público (Oscip), para a execução de políticas públicas.
 
