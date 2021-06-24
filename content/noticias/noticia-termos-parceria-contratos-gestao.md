@@ -20,3 +20,12 @@ Os dados são de responsabilidade da Secretaria de Estado de Planejamento e Gest
 
 As informações também podem ser acessadas diretamento no [Portal de Dados Abertos do Estado](https://dados.mg.gov.br/dataset/termos-parceria-contratos-gestao). 
 
+Esse conjunto de dados cumpre as diretrizes da Lei de Acesso a Informação - [Lei 12.527/2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm) sobre dados abertos especialmente os dispositivos previstos no $3º do art. 8º:
+
+> II - possibilitar a gravação de relatórios em diversos formatos eletrônicos, inclusive abertos e não proprietários, tais como planilhas e texto, de modo a facilitar a análise das informações;
+> 
+> III - possibilitar o acesso automatizado por sistemas externos em formatos abertos, estruturados e legíveis por máquina;
+> 
+> IV - divulgar em detalhes os formatos utilizados para estruturação da informação;
+
+Além disso, o conjunto de dados está documentado conforme as especificações Frictionless Data (dados sem fricção), permitindo o compartilhamento e reuso dos dados, além de possibiliar a validação automática dos dados por serviços ofertados pela comunidade, como o [goodtables.io](https://goodtables.io/), mantido pela Open Knowledge Foundation.
