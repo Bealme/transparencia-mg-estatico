@@ -1,6 +1,6 @@
 # [Notícia] Consulta de Termos de Parceria e Contratos de Gestão mais informativa
 
-O [Portal de Transparência do Estado de Minas Gerais](http://www.transparencia.mg.gov.br/convenios) disponibilizou no dia 21 de junho de 2021 uma nova consulta com as informações dos Termos de Parceria e Contratos de Gestão firmados pelos órgãos e entidades do Poder Executivo Estadual com entidades privadas sem fins lucrativos, qualificadas como Organizações da Sociedade Civil de Interesse Público (OSCIP) e como Organização Social (OS).
+O [Portal de Transparência do Estado de Minas Gerais](http://www.transparencia.mg.gov.br/convenios) disponibilizou no dia 21 de junho de 2021 uma atualização na consulta  de informações dos Termos de Parceria e Contratos de Gestão firmados pelos órgãos e entidades do Poder Executivo Estadual com entidades privadas sem fins lucrativos, qualificadas como Organizações da Sociedade Civil de Interesse Público (OSCIP) e como Organização Social (OS).
 
 A consulta apresenta um extrato das informações dos Termos de Parceria e Contratos de Gestão para a execução de políticas públicas. Os dados estão disponíveis em formato aberto e divividos em 04 arquivos:
 1. Formalização dos Termos de Parceria e Contratos de Gestão;
@@ -18,7 +18,7 @@ Um resumo contendo as alterações realizadas no conjunto de dados também estã
 
 Os dados são de responsabilidade da Secretaria de Estado de Planejamento e Gestão - SEPLAG e serão atualizados pela equipe da Diretoria de Transparência Ativa/DTA-CGE.
 
-As informações também podem ser acessadas diretamento no [Portal de Dados Abertos do Estado](https://dados.mg.gov.br/dataset/termos-parceria-contratos-gestao). 
+As informações também podem ser acessadas diretamente no [Portal de Dados Abertos do Estado](https://dados.mg.gov.br/dataset/termos-parceria-contratos-gestao). 
 
 Esse conjunto de dados cumpre as diretrizes da Lei de Acesso a Informação - [Lei 12.527/2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm) sobre dados abertos especialmente os dispositivos previstos no $3º do art. 8º:
 
@@ -28,4 +28,4 @@ Esse conjunto de dados cumpre as diretrizes da Lei de Acesso a Informação - [L
 > 
 > IV - divulgar em detalhes os formatos utilizados para estruturação da informação;
 
-Além disso, o conjunto de dados está documentado conforme as especificações Frictionless Data (dados sem fricção), permitindo o compartilhamento e reuso dos dados, além de possibiliar a validação automática dos dados por serviços ofertados pela comunidade, como o [goodtables.io](https://goodtables.io/), mantido pela Open Knowledge Foundation.
+Além disso, o conjunto de dados está documentado conforme as especificações do Frictionless Data (dados sem fricção), permitindo o compartilhamento e reuso dos dados, além de possibiliar a validação automática dos dados por serviços ofertados pela comunidade, como o [goodtables.io](https://goodtables.io/), mantido pela Open Knowledge Foundation.
