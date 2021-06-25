@@ -17,7 +17,7 @@ Um resumo contendo as alterações realizadas no conjunto de dados também estã
 
 ![](static/imagem-termos-parceria.png)
 
-Os dados são de responsabilidade da Secretaria de Estado de Planejamento e Gestão - SEPLAG e serão atualizados pela equipe da Diretoria de Transparência Ativa/DTA-CGE.
+A gestão dos dados sobre os Contratos de Gestão e Termos de Parceria estão sob a responsabilidade da Secretaria de Estado de Planejamento e Gestão - SEPLAG e serão atualizados pela equipe da Controladoria-Geral do Estado - CGE.
 
 As informações também podem ser acessadas diretamente no [Portal de Dados Abertos do Estado](https://dados.mg.gov.br/dataset/termos-parceria-contratos-gestao). 
 
