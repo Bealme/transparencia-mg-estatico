@@ -1,8 +1,9 @@
 # [Notícia] Consulta de Termos de Parceria e Contratos de Gestão mais informativa
 
-O [Portal de Transparência do Estado de Minas Gerais](http://www.transparencia.mg.gov.br/convenios) disponibilizou no dia 21 de junho de 2021 uma atualização na consulta  de informações dos Termos de Parceria e Contratos de Gestão firmados pelos órgãos e entidades do Poder Executivo Estadual com entidades privadas sem fins lucrativos, qualificadas como Organizações da Sociedade Civil de Interesse Público (OSCIP) e como Organização Social (OS).
+O [Portal de Transparência do Estado de Minas Gerais](http://www.transparencia.mg.gov.br/convenios) disponibilizou no úlitmo dia 21 de junho de 2021 uma atualização na consulta de informações dos Termos de Parceria e Contratos de Gestão firmados pelos órgãos e entidades do Poder Executivo Estadual com entidades privadas sem fins lucrativos, qualificadas como Organizações da Sociedade Civil de Interesse Público (OSCIP) e como Organização Social (OS).
 
-A consulta apresenta um extrato das informações dos Termos de Parceria e Contratos de Gestão para a execução de políticas públicas. Os dados estão disponíveis em formato aberto e divividos em 04 arquivos:
+A consulta apresenta um extrato das informações dos Termos de Parceria e Contratos de Gestão para a execução de políticas públicas que visem melhorar os produtos e serviços oferecidos à sociedade, garantindo eficiência à gestão dos recursos públicos. Os dados estão disponíveis em formato aberto e divividos em 04 arquivos:
+
 1. Formalização dos Termos de Parceria e Contratos de Gestão;
 2. Termos aditivos;
 3. Repasses previstos e realizados; e
