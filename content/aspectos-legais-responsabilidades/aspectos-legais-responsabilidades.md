@@ -88,7 +88,7 @@ Qualquer informação ou serviço existente no sítio, em parte ou no todo, pode
 As marcas presentes no site, incluindo a logomarca de Governo, são de propriedade do Governo do Estado de Minas Gerais, sendo proibida sua reprodução, cópia ou modificação sem expressa autorização do Governo do Estado de Minas Gerais. 
 
 
-O Governo de Minas Gerais e a Controladoria Geral do Estado de Minas Gerais não se responsabilizam por:
+O Governo de Minas Gerais e a CGE/MG não se responsabilizam por:
 
   - eventuais prejuízos causados a terceiros por dados ou informações públicos de outros entes, organizações, empresas, fornecedores, servidores públicos, beneficiários de políticas públicas que constem em alguma consulta aberta do Portal;
 
@@ -99,6 +99,6 @@ O Governo de Minas Gerais e a Controladoria Geral do Estado de Minas Gerais não
 
 ## Atualização dos Termos de Uso
 
-Este documento poderá ser alterado pela Controladoria Geral do Estado de Minas Gerais a qualquer momento que julguar conveniente. A data da modificação será registrada na área superior da primeira página deste documento.
+Este documento poderá ser alterado pela CGE/MG a qualquer momento que julguar conveniente. A data da modificação será registrada na área superior da primeira página deste documento.
 
 Ressalta-se que em nenhuma hipótese as condições de restrição, anonimização e/ou sigilo dos dados contidos nas bases deste Portal serão afetadas por quaisquer modificações nesta política.
