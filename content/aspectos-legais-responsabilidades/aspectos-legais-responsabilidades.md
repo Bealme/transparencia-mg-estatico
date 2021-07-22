@@ -79,11 +79,9 @@ Preserva-se, de tal modo, o dever de transparência sedimentado na Lei de Acesso
 Qualquer outra hipótese ou situação de restrição, anonimização ou descaracterização de dados do Portal está sujeita à revisão de classificação de informações, consulta jurídica ou parecer do GT estadual da LGPD.
 
 
-## Atualizações, Propriedades, licenças, direitos
+## Atualizações, Propriedade, licenças, direitos
 
 Qualquer informação ou serviço existente no sítio, em parte ou no todo, poderá, a qualquer tempo, ser alterado ou excluído sem prévio aviso.
-
-Todo o conteúdo do sítio eletrônico do Portal da Transparência do Estado de Minas Gerais é de propriedade do Governo do Estado de Minas Gerais (??), ou possui autorização para sua publicação/veiculação. 
 
 É autorizada a reprodução total ou parcial do conteúdo inserido no Portal (planilhas, gráficos, imagens, textos, tabelas, arquivos), devendo a fonte ser citada, mantendo-se a integridade das informações e respeitando-se o sigilo de terceiros.
 
