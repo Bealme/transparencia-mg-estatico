@@ -25,7 +25,7 @@ Usuário: toda pessoa física que consulte ou utilize dados do sítio eletrônic
 
 CGE/MG:
 
-. Gerir o Portal a partir da Diretoria de Transparência Ativa, da Superintendência Central de Transparência/Subcontroladoria de Governo Aberto, na CGE-MG.
+. Gerir o Portal a partir da Diretoria Central de Transparência Ativa, da Superintendência Central de Transparência/Subcontroladoria de Transparência e Integridade, na CGE-MG.
 
 . Aplicar a proteção de Dados Individuais e dispositivos congêners aos dados passíveis de restrição, anonimização e/ou sigilo.
 
@@ -67,6 +67,8 @@ As competências relacionadas à gestão e manutenção do sítio estão discipl
 
 
 ## Privacidade
+
+O Governo e a CGE/MG se obrigam a adotar práticas que protejam a privacidade do indivíduo e cumpram com os princípios de Proteção de Dados no Brasil, dentre elas garantir a confidencialidade e o sigilo dos dados pessoais de navegação captados pelos aplicativos de analytics do Portal (local de origem da navegação, páginas visitadas, tempo de duração da sessão, idioma, provedor, taxa de rejeição, dentre outras), utilizando sistemas que possam garantir devidamente a segurança desses dados.
 
 Em cumprimento ao dever de transparência, são disponibilizados os dados para identificar os credores das despesas públicas, incluindo despesas gerais, remuneração, diárias, dentre outros.
 
