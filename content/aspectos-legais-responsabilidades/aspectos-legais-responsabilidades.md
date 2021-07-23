@@ -68,13 +68,13 @@ As competências relacionadas à gestão e manutenção do sítio estão discipl
 
 ## Privacidade
 
-O Governo e a CGE/MG se obrigam a adotar práticas que protejam a privacidade do indivíduo e cumpram com os princípios de Proteção de Dados no Brasil, dentre elas garantir a confidencialidade e o sigilo dos dados pessoais de navegação captados pelos aplicativos de analytics do Portal (local de origem da navegação, páginas visitadas, tempo de duração da sessão, idioma, provedor, taxa de rejeição, dentre outras), utilizando sistemas que possam garantir devidamente a segurança desses dados.
+No âmbito estadual, o acesso a informação é regulamentado pelo Decreto nº 45.969/12. Conforme art.7º, o acesso à informação de que trata este Decreto compreende, entre outros, o direito ao acesso a dados gerais para o acompanhamento de programas e ações de órgãos e entidades, registros de repasses ou transferências de recursos financeiros, registros das despesas, informações concernentes a procedimentos licitatórios, inclusive os respectivos editais e resultado e respostas às perguntas mais frequentes da sociedade.
 
-Em cumprimento ao dever de transparência, são disponibilizados os dados para identificar os credores das despesas públicas, incluindo despesas gerais, remuneração, diárias, dentre outros.
+Assim, conforme dispositivos citados acima, o Portal da Transparência veio para atender os dispositivos da Lei de Acesso à Informação, impondo a publicidade da informação como regra e o sigilo a exceção, devendo, portanto, ser dado amplo acesso à informação pública, para permitir assim o controle social por parte da sociedade. Dessa forma, são disponibilizados os dados para identificar os credores das despesas públicas, incluindo despesas gerais, remuneração, diárias, dentre outros.
 
-No que se refere a aplicação de dispositivos de privacidade, número CPF e de outros documentos de identificação civil de candidatos aprovados em concursos públicos, representantes de sociedades e entidades contratantes e credores do Estado são descaracterizados. 
+No que se refere a aplicação de dispositivos de privacidade, número de CPF e de outros documentos de identificação civil de candidatos aprovados em concursos públicos, representantes de sociedades e entidades contratantes e credores do Estado são descaracterizados. Dados pessoais adicionais constantes de termos negociais entabulados pelo Estado são ocultados. 
 
-Dados pessoais adicionais constantes de termos negociais entabulados pelo Estado são ocultados. 
+O sigilo dos dados pessoais de navegação captados pelos aplicativos de analytics do Portal (local de origem da navegação, páginas visitadas, tempo de duração da sessão, idioma, provedor, taxa de rejeição, dentre outras) tem sua confidencialidade garantida, por meio de sistemas que possam garantir devidamente a segurança desses dados.
 
 Preserva-se, de tal modo, o dever de transparência sedimentado na Lei de Acesso à Informação e o dever de proteção aos dados pessoais de que trata, de forma sistematizada, a Lei Geral de Proteção de Dados.
 
