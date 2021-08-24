@@ -1,7 +1,9 @@
 
 ## O Portal da Transparência
 
-O Portal da Transparência é uma iniciativa do Governo do Estado de Minas Gerais, sob a gestão da Controladoria-Geral do Estado, que disponibiliza dados e informações públicas de órgãos e entidades do Poder Executivo Estadual (Fundos, Fundações Públicas, Autarquias e Empresas Estatais Dependentes). O Portal atende de maneira ativa à Lei de Acesso à Informação (Lei Federal nº 12.527 de 2011), que regulamenta o direito constitucional do cidadão de acessar as informações públicas e também oferta a ferramenta para solicitações de informações por meio da Lei de Acesso à Informação (E-sic).
+O Portal da Transparência é um mecanismo do Governo do Estado de Minas Gerais, sob a gestão da Controladoria-Geral do Estado, que disponibiliza dados e informações públicas de órgãos/entidades e entidades do Poder Executivo Estadual (Fundos, Fundações Públicas, Autarquias e Empresas Estatais Dependentes). O Portal atende de maneira ativa à Lei de Acesso à Informação (Lei Federal nº 12.527 de 2011), que regulamenta o direito constitucional do cidadão de acessar as informações públicas e também oferta a ferramenta para solicitações de informações por meio da Lei de Acesso à Informação (E-sic).
+
+Este documento 'Termos de Uso' visa estabelecer as condições para que o usuário utilize os recursos disponíveis no Portal, inclusive os dados e informações publicados. Ao acessar o Portal, o usuário entende e concorda plenamente com os termos aqui estabelecidos e sem reservas de todas as disposições que constam neste termo. 
 
 
 ## Definições
@@ -14,13 +16,15 @@ Dados individuais:
 
 Portal: Portal da Transparência do Poder Executivo do Estado de Minas Gerais
 
+Órgãos/entidades: Instituições responsáveis por alimentar sistemas transacionais do estado, a partir da inserção de informações para processar operações, pelas suas respectivas unidades administrativas
+
 PRODEMGE: Companhia de Tecnologia da Informação do Estado de Minas Gerais
 
-Sistemas transacionais: softwares que processam operações administrativas (compras, depesas, convênios, folha de pagamento, etc) a partir de informações fornecidas pelas Unidades Administrativas
+Sistemas transacionais: softwares que processam operações administrativas (compras, depesas, convênios, folha de pagamento, etc) a partir de informações fornecidas pelas unidades administrativas dos órgãos/entidades
 
-Unidades administrativas: setores (seção, departamento, diretoria, superintendência, subsecretaria, subcontroladoria, etc) responsáveis por alimentar sistemas transacionais do estado, a partir da inserção de informações para processar operações administrativas
 
-Usuário: toda pessoa física que consulte ou utilize dados do sítio eletrônico do Portal
+
+Usuário: toda pessoa que consulte ou utilize dados do sítio eletrônico do Portal
 
 
 ## Responsabilidades 
@@ -35,15 +39,17 @@ CGE/MG:
 
 . Atender e responder a pedidos de informação sobre conteúdos publicados no Portal.
 
+ÓRGÃOS/ENTIDADES:
+
+. Zelar pela acurácia, completude e tempestividade com que dados e informações devem ser registrados nos sistemas transacionais, para que haja qualidade, integridade e atualização das informações do armazém de dados dos sistemas que são espelhados no Portal
+
+. Realizar a restrição de informações específicas do seu negócio (anonimização, ocultação, substituição, supressão, etc), quando necessárias, de trechos ou íntegra de instrumentos que sejam objeto de registro em sistemas transacionais (ex. cláusulas contratuais específicas da área de negócio), de acordo com as normas vigentes 
+
 PRODEMGE:
 
 . Desenvolver e manter aplicações do sítio eletrônico do Portal, www.transparencia.mg.gov.br, de acordo com instrumentos contratuais vigentes. 
 
 . Publicar, manter e atualizar os conteúdos das consultas do Portal de acordo com periodicidadaes previamente estabelecidas.
-
-Unidades Administrativas:
-
-. Zelar pela acurácia, completude e tempestividade com que dados e informações devem ser registrados nos sistemas transacionais, para que haja qualidade, integridade e atualização das informações do armazém de dados dos sistemas que são espelhados no Portal
 
 USUÁRIO:
 
@@ -57,18 +63,16 @@ USUÁRIO:
 
 . Não interferir no uso e acesso de outras partes ao Portal e à sua infraestrutura.
 
-. Não disponibilizar por meio do Portal ou fazer upload de arquivos ou outros dados ou materiais que contenha vírus, malware, dados corrompidos ou outros itens prejudiciais.
+. Não disponibilizar, por meio do Portal, ou fazer upload de arquivos ou outros dados ou materiais que contenha vírus, malware, dados corrompidos ou outros itens prejudiciais.
 
 . Não publicar, postar, distribuir ou disseminar materiais ou informações difamatórias, transgressoras, obscenas ou ilegais através do Portal.
-
 
 As competências relacionadas à gestão e manutenção do sítio estão disciplinadas na Resolução SEPLAG nº 29, de 05 de julho de 2016.
 
 
-
 ## Privacidade
 
-No âmbito estadual, o acesso a informação é regulamentado pelo Decreto nº 45.969/12. Conforme art.7º, o acesso à informação de que trata este Decreto compreende, entre outros, o direito ao acesso a dados gerais para o acompanhamento de programas e ações de órgãos e entidades, registros de repasses ou transferências de recursos financeiros, registros das despesas, informações concernentes a procedimentos licitatórios, inclusive os respectivos editais e resultado e respostas às perguntas mais frequentes da sociedade.
+No âmbito estadual, o acesso a informação é regulamentado pelo Decreto nº 45.969/12. Conforme art.7º, o acesso à informação de que trata este Decreto compreende, entre outros, o direito ao acesso a dados gerais para o acompanhamento de programas e ações de órgãos/entidades e entidades, registros de repasses ou transferências de recursos financeiros, registros das despesas, informações concernentes a procedimentos licitatórios, inclusive os respectivos editais e resultado e respostas às perguntas mais frequentes da sociedade.
 
 Assim, conforme dispositivos citados acima, o Portal da Transparência veio para atender os dispositivos da Lei de Acesso à Informação, impondo a publicidade da informação como regra e o sigilo a exceção, devendo, portanto, ser dado amplo acesso à informação pública, para permitir assim o controle social por parte da sociedade. Dessa forma, são disponibilizados os dados para identificar os credores das despesas públicas, incluindo despesas gerais, remuneração, diárias, dentre outros.
 
@@ -81,26 +85,32 @@ Preserva-se, de tal modo, o dever de transparência sedimentado na Lei de Acesso
 Qualquer outra hipótese ou situação de restrição, anonimização ou descaracterização de dados do Portal está sujeita à revisão de classificação de informações, consulta jurídica ou parecer do Comitê Estadual de Proteção de Dados Pessoais.
 
 
-## Atualizações, Propriedade, licenças, direitos
+## Atualizações de conteúdo do Portal
 
-Qualquer informação ou serviço existente no sítio, em parte ou no todo, poderá, a qualquer tempo, ser alterado ou excluído sem prévio aviso.
-
-É autorizada a reprodução total ou parcial do conteúdo inserido no Portal (planilhas, gráficos, imagens, textos, tabelas, arquivos), devendo a fonte ser citada, mantendo-se a integridade das informações e respeitando-se o sigilo de terceiros.
-
-As marcas presentes no site, incluindo a logomarca de Governo, são de propriedade do Governo do Estado de Minas Gerais, sendo proibida sua reprodução, cópia ou modificação sem expressa autorização do Governo do Estado de Minas Gerais. 
+Qualquer informação ou serviço existente no sítio, em parte ou no todo, poderá, a qualquer tempo, ser alterado ou excluído, sem prévio aviso.
 
 
-O Governo de Minas Gerais e a CGE/MG não se responsabilizam por:
+## Direitos
 
-  - eventuais prejuízos causados a terceiros por dados ou informações públicos de outros entes, organizações, empresas, fornecedores, servidores públicos, beneficiários de políticas públicas que constem em alguma consulta aberta do Portal;
+A CGE/MG, como mantenedora do Portal e no exercício de sua competência, autoriza o usuário a utilizar os dados para qualquer finalidade lícita, desde que os mesmos não possuam termos adicionais ou estejam subordinados à licença específica. Os usos incluem, mas não se limitam, a: atividades lucrativas, reprodução total ou parcial, tradução, adaptação, reordenação ou qualquer outra modificação, distribuição do original ou do resultado de ressignificação, no limite das restrições legais e respectiva regulamentação, desde que citada a devida fonte.
+
+Os usuários dos dados e informações aqui publicados não devem apresentá-los de forma incorreta ou enganosa, nem os utilizar para amparar ou sustentar atividades criminosas ou ilícitas ou de favorecimento ostensível de atividades de igual caráter.
+
+A CGE, a PRODEMGE e as órgãos/entidades não serão responsáveis:
+
+  - pela utilização que façam pessoas e/ou instituições que transformem e/ou usem direta ou indiretamente os dados e que porventura venham a gerar prejuízos, danos econômicos ou materiais advindos pelo uso e/ou transformação dos dados;
 
   - práticas maliciosas ou mau uso pessoal e/ou comercial de conteúdo dos dados públicos publicados neste Portal;
 
   - exploração maliciosa de falhas de segurança de dados que por ventura vierem a existir, tampouco por ilegalidades cometidas por terceiros com o uso de dados deste Portal
+
+Denúncias de eventual utilização dos dados públicos fornecidos pelo Portal para atividades em desacordo com este Termo de Uso ou outras disposições legais podem ser feitas por meio da seção [Fale Conosco](https://www.transparencia.mg.gov.br/faleconosco).
+
+As marcas presentes no site, incluindo a logomarca de Governo, são de propriedade do Governo do Estado de Minas Gerais, sendo proibida sua reprodução, cópia ou modificação sem expressa autorização do Governo do Estado de Minas Gerais. 
 
 
 ## Atualização dos Termos de Uso
 
 Este documento poderá ser alterado pela CGE/MG a qualquer momento que julguar conveniente. A data da modificação será registrada na área superior da primeira página deste documento.
 
-Ressalta-se que em nenhuma hipótese as condições de restrição, anonimização e/ou sigilo dos dados contidos nas bases deste Portal serão afetadas por quaisquer modificações nesta política.
+Ressalta-se que, em nenhuma hipótese, as condições de restrição, anonimização e/ou sigilo dos dados contidos nas bases deste Portal serão afetadas por quaisquer modificações nesta política.
