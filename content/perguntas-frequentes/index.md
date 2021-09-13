@@ -156,4 +156,32 @@ Outras informações podem ser obtidas pelo telefone 0800 970 1212 ou na Secreta
 * Polícia Militar de Minas Gerais (PMMG);
 * Corpo de Bombeiros Militar de Minas Gerais (CBMMG).
 
+{slider Como faço para acessar os empenhos referentes ao Programa Poupança Jovem no Portal da Transparência?|icon}
+
+As informações sobre os empenhos do Programa Poupança Jovem estão disponíveis na consulta de Despesas do Portal da Transparência.
+Acesse o link e consulte os dados dos empenhos: [Poupança Jovem](http://www.transparencia.mg.gov.br/despesa-estado/despesa/despesa-orgaos/2016/01-01-2016/31-12-2016/3504/1792/504/21/43).
+Outras informações podem ser obtidas pelo telefone 0800 970 1212 ou na Secretaria de Estado de Educação.
+
+{slider Como são apresentados os dados de [Despesa com Pessoal Inativo](https://www.transparencia.mg.gov.br/estado-pessoal/despesa-com-pessoal/despesapessoal-orgaosFiltro/1/8/2021/0/1) do Poder Executivo no Portal da Transparência?|icon}
+
+As Despesas com Pessoal Inativo do Estado de Minas Gerais são extraídos do Sistema de Administração Financeira do Estado de Minas Gerais - SIAFI/MG e podem ser consultados no Portal da Transparência do Estado de Minas Gerais na consulta **Despesa com Pessoal** e podem ser consultados utilizando os filtros:
+- Poder: Executivo, Judiciário, Legislativo e Ministério Público;
+- Òrgão: incluindo os órgãos dos 3 poderes mais o Ministério Público.
+
+Ao considerar apenas o Poder Executivo, a consulta por órgão apresenta valores inativos para a PMMG e CBMMG, englobando os servidores públicos militares, e para o Fundo Financeiro de Previdência do Estado de Minas Gerais, considerando os servidores públicos civis.
+
+![](static/despesa_pessoal.png)
+
+A concentração dos valores do servidores públicos civis aposentados no Fundo Financeiro da Previdência decorre da aplicação do art. 22 da Lei Complementar Estadual nº 156/2020 que é a entidade responsável pela gestão dos aposentados civis. Ficando os servidores públicos militares alocados no órgão PMMG e CBBMG:
+
+***Art. 19. Fica criado o Fundo Financeiro de Previdência do Estado de Minas Gerais - FFP-MG, fundo de previdência dos servidores públicos civis do Estado, sem personalidade jurídica e dotado de individualização contábil.***
+
+***§ 1º O Instituto de Previdência dos Servidores do Estado de Minas Gerais - Ipsemg - é a entidade gestora do FFP-MG.***
+
+***§ 2º O grupo coordenador do FFP-MG é constituído por representantes da Secretaria de Estado de Planejamento e Gestão, da Secretaria de Estado de Fazenda e do Ipsemg.***
+
+***§ 3º A Secretaria de Estado de Fazenda é a agente financeira do FFP-MG e não será por ele remunerada.***
+
+
+
 {/sliders}
