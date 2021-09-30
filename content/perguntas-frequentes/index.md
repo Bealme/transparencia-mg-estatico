@@ -162,79 +162,26 @@ As informações sobre os empenhos do Programa Poupança Jovem estão disponíve
 Acesse o link e consulte os dados dos empenhos: [Poupança Jovem](http://www.transparencia.mg.gov.br/despesa-estado/despesa/despesa-orgaos/2016/01-01-2016/31-12-2016/3504/1792/504/21/43).
 Outras informações podem ser obtidas pelo telefone 0800 970 1212 ou na Secretaria de Estado de Educação.
 
-{slider Como são apresentados os dados de [Despesa com Pessoal Inativo](https://www.transparencia.mg.gov.br/estado-pessoal/despesa-com-pessoal/despesapessoal-orgaosFiltro/1/8/2021/0/1) no Portal da Transparência do Estado de Minas Gerais?|icon}
+{slider Porque nem todos os órgãos possuem despesas com pessoal inativo na [consulta de Despesa com Pessoal](https://www.transparencia.mg.gov.br/estado-pessoal/despesa-com-pessoal?view=estado_despesapessoal)?|icon}
 
-Antes de adentrarmos nas informações sobre a disponibilização dos dados no Portal da Transparência, cabe esclarecer que os preceitos legais que regem às normas previdênciárias aplicáveis aos servidores públicos titulares de cargos efetivos, filiados aos regimes próprios de previdência, instituídos de organizados pelos respectivos entes federativos, possuem fundamento no art. 40 da [Constituição Federal de 1988](http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) e são diferentes daqueles aplicados ao Regime Geral de Previdência Social.
+As [despesas com pessoal inativo são executadas nas unidades orçamentárias](https://www.transparencia.mg.gov.br/estado-pessoal/despesa-com-pessoal/despesapessoal-orgaosFiltro/1/9/2021/0/1):
 
->   Art. 40. O regime próprio de previdência social dos servidores titulares de cargos efetivos terá caráter contributivo e solidário, mediante contribuição do respectivo ente federativo, de servidores ativos, de aposentados e de pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial.       
->
+- FUNDO FINANCEIRO DE PREVIDENCIA DO ESTADO DE MINAS GERAIS	
+- DEFENSORIA PUBLICA DO ESTADO DE MINAS GERAIS	
+- TRIBUNAL DE JUSTICA DO ESTADO DE MINAS GERAIS	
+- ASSEMBLEIA LEGISLATIVA DO ESTADO DE MINAS GERAIS	
+- TRIBUNAL DE CONTAS DO ESTADO DE MINAS GERAIS	
+- PROCURADORIA GERAL DE JUSTICA	
+- POLICIA MILITAR DO ESTADO DE MINAS GERAIS	
+- CORPO DE BOMBEIROS MILITAR DO ESTADO DE MINAS GERAIS	
+- TRIBUNAL DE JUSTICA MILITAR DO ESTADO DE MINAS GERAIS	
 
-No  Estado  de  Minas  Gerais,  para  atender  ao  disposto  no  art.  40  da  da [Constituição Federal de 1988](http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm),  foi  instituído  por meio da [Lei Complementar nº 64/2002](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=LCP&num=64&ano=2002) o Regime Próprio de Previdência e Assistência Social (RPPS) dos servidores públicos civis do Estado, tendo sido regulamento pelo [Decreto Estadual nº 42.758/2002](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=42758&comp=&ano=2002).
+Em Minas o Regime Próprio de Previdência e Assistência Social (RPPS) dos servidores civis foi instituído pela [Lei Complementar nº 64/2002](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=LCP&num=64&ano=2002). Os benefícios deste regime são assegurados por meio do Fundo Financeiro de Previdência do Estado de Minas Gerais – FFP-MG. 
+Os benefícios previdenciários da ALMG, do Tribunal de Justiça, do Tribunal de Justiça Militar, do Ministério Público, da Defensoria Pública e do TCEMG são executadas em ações orçamentárias próprias mas que integram o FFP-MG.
 
-Ressalta-se que  os  servidores  públicos  militares  e  os  parlamentares  não  se  submetem  às  regras  da  [Lei Complementar nº 64/2002](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=LCP&num=64&ano=2002), conforme art. 3º da LC 64/2002.  O Instituto  de  Previdência  dos Servidores  Militares (IPSM)  e  o  Instituto  de  Previdência  do  Legislativo  do  Estado  de  Minas  Gerais (IPLEMG), asseguram  respectivamente,  os  benefícios  dos  militares  e  dos  parlamentares  estaduais. 
+Também existe no âmbito da previdência social mineira o Instituto  de  Previdência  dos Servidores  Militares (IPSM). Diferentemente da maioria dos institutos de previdência, o plano de benefícios do IPSM não assegura o benefício de aposentadoria, reserva remunerada e reforma. 
+Esses benefícios previdenciários ficam a cargo do Tesouro Estadual e da contribuição para o custeio parcial de aposentadoria prevista na Lei 12.278/96 (alíquota de 3,5%) e são executadas pela PMMG, CBMMG e TJMMG.
 
-> Art. 3º – São vinculados compulsoriamente ao Regime Próprio de Previdência Social, na qualidade de segurados, sujeitos às disposições desta lei complementar:
->
-> I – o titular de cargo efetivo da administração direta, autárquica e fundacional dos Poderes do Estado, do Ministério Público e do Tribunal de Contas do Estado, assim considerado o servidor cujas atribuições, deveres e responsabilidades específicas estejam definidas em estatuto ou normas estatutárias e que tenha sido aprovado por meio de concurso público de provas ou de provas e títulos ou de prova de seleção equivalente, bem como aquele efetivado nos termos dos arts. 105 e 106 do Ato das Disposições Constitucionais Transitórias da Constituição do Estado;
-> 
-> II – o membro da magistratura e o do Ministério Público, bem como o Conselheiro do Tribunal de Contas;
-> 
-> III – o servidor titular de cargo efetivo em disponibilidade;
-> 
-> IV – o aposentado.
-> 
-> V – o notário, o registrador, o escrevente e o auxiliar admitido até 18 de novembro de 1994 e não optante pela contratação segundo a legislação trabalhista, nos termos do art. 48 da Lei Federal nº 8.935, de 18 de novembro de 1994;
-> 
-VI – o notário, o registrador, o escrevente e o auxiliar aposentado pelo Estado.
-> 
-
-Sendo assim para a divulgação das informações referentes as despesas com pessoal inativo devem ser considerados servidores públicos civis, servidores públicos militares e servidores públicos legislativos, participantes de fundos de previdência distintos.
-
-No Portal da Transparência do Estado de Minas Gerais, as despesas com Pessoal Inativo do Estado de Minas Gerais são extraídos do Sistema de Administração Financeira do Estado de Minas Gerais - SIAFI/MG e podem ser consultados  na consulta [**Despesa com Pessoal**](https://www.transparencia.mg.gov.br/estado-pessoal/despesa-com-pessoal) por meio dos seguintes filtros:
-- Poder: Executivo, Judiciário, Legislativo e Ministério Público;
-- Órgão: incluindo os órgãos dos 3 poderes mais o Ministério Público.
-
-Ao considerar apenas o Poder Executivo, a consulta por órgão apresenta valores inativos para a Polícia Militar de Minas Gerais (PMMG) e Corpo de Bombeiros Militar de Minas Gerais (CBMMG), englobando os servidores públicos militares, e para o Fundo Financeiro de Previdência do Estado de Minas Gerais, englobando os servidores públicos civis.
-
-![](static/despesa_pessoal.png)
-
-A concentração dos valores do servidores públicos civis aposentados no Fundo Financeiro da Previdência decorre da aplicação do art. 22 da [Lei Complementar Estadual nº 156/2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LCP&num=156&comp=&ano=2020) que é a entidade responsável pela gestão dos aposentados civis do Estado de Minas Gerais.
-
-> Art. 19. Fica criado o Fundo Financeiro de Previdência do Estado de Minas Gerais - FFP-MG, fundo de previdência dos servidores públicos civis do Estado, sem personalidade jurídica e dotado de individualização contábil.***
->
-> §1º O Instituto de Previdência dos Servidores do Estado de Minas Gerais - Ipsemg - é a entidade gestora do FFP-MG.***
->
-> §2º O grupo coordenador do FFP-MG é constituído por representantes da Secretaria de Estado de Planejamento e Gestão, da Secretaria de Estado de Fazenda e do Ipsemg.***
->
-> §3º A Secretaria de Estado de Fazenda é a agente financeira do FFP-MG e não será por ele remunerada.***
-
-No caso da PMMG e do CBMMG, os gastos são alocados no próprio órgão, uma vez que conforme o art. 12º da [Lei Estadual nº 10.366/1990](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=10366&comp=&ano=1990&aba=js_textoAtualizado#texto) que dispõe sobre as competências do Instituto de Previdência dos Servidores Militares, o plano de benefícios do IPSM, não assegura o benefício de aposentadoria, mas apenas, de pensão por morte, auxílio-natalidade, auxílio-funeral, pecúlio, auxílio-reclusão e assistência à saude. 
-
-> Art. 12- A prestação previdenciária compreende os seguintes benefícios:
->
-> I- para o segurado:
-> 
-> a)- assistência à saúde;
-> 
-> b)- auxílio-natalidade;
-> 
-> c)- auxílio-funeral
-> 
-> II- para o dependente:
-> 
-> a)- pensão;
-> 
-> b)- pecúlio;
-> 
-> c)- assistência à saúde;
-> 
-> d)- auxílio-reclusão;
-> 
-> e)- auxílio-funeral.
-> 
-
-Assim, todo o valor da despesa com pessoal a título de aposentadoria, reserva remunerada e reforma dos militares da PMMG e do CBMMG é suportada pelo Tesouro Estadual, tendo significativa participação na folha de pagamento de pessoal inativo da PMMG e do CBMMG.
-
-Mais informações podem ser consultados no Relatório Técnico do Tribunal de Contas do Estado de Minas Gerais disponível no portal da [Assembleia Legislativa do Estado de Minas Gerais - ALMG](https://www.almg.gov.br/acompanhe/planejamento_orcamento_publico/contas_governador.html).
+O Demonstrativo da Unidade de Gestão Previdenciária Integrada ([Ugeprevi](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LCP&num=100&comp=&ano=2007)) publicado no Volume I da [Lei Orçamentária Anual](http://www.seplag.mg.gov.br/pagina/planejamento-e-orcamento/lei-orcamentaria-anual-loa/lei-orcamentaria-anual-loa) também pode ser consultado para um resumo da distribuição dos recursos.
 
 {/sliders}
