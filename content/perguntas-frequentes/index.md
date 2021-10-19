@@ -166,20 +166,20 @@ Outras informações podem ser obtidas pelo telefone 0800 970 1212 ou na Secreta
 
 As [despesas com pessoal inativo são executadas nas unidades orçamentárias](https://www.transparencia.mg.gov.br/estado-pessoal/despesa-com-pessoal/despesapessoal-orgaosFiltro/1/9/2021/0/1):
 
-- FUNDO FINANCEIRO DE PREVIDENCIA DO ESTADO DE MINAS GERAIS	
-- DEFENSORIA PUBLICA DO ESTADO DE MINAS GERAIS	
-- TRIBUNAL DE JUSTICA DO ESTADO DE MINAS GERAIS	
-- ASSEMBLEIA LEGISLATIVA DO ESTADO DE MINAS GERAIS	
-- TRIBUNAL DE CONTAS DO ESTADO DE MINAS GERAIS	
-- PROCURADORIA GERAL DE JUSTICA	
-- POLICIA MILITAR DO ESTADO DE MINAS GERAIS	
-- CORPO DE BOMBEIROS MILITAR DO ESTADO DE MINAS GERAIS	
-- TRIBUNAL DE JUSTICA MILITAR DO ESTADO DE MINAS GERAIS	
+- Fundo Financeiro de Previdência (FFP-MG)
+- Defensoria Pública
+- Tribunal de Justiça (TJMG)
+- Assembleia Legislativa (ALMG)
+- Tribunal de Contas (TCEMG)
+- Procuradoria Geral de Justiça (ie. Ministério Público)
+- Polícia Militar (PMMG)
+- Corpo de Bombeiros Militar (CBMMG)
+- Tribunal de Justiça Militar (TJMMG)
 
 Em Minas o Regime Próprio de Previdência e Assistência Social (RPPS) dos servidores civis foi instituído pela [Lei Complementar nº 64/2002](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=LCP&num=64&ano=2002). Os benefícios deste regime são assegurados por meio do Fundo Financeiro de Previdência do Estado de Minas Gerais – FFP-MG. 
 Os benefícios previdenciários da ALMG, do Tribunal de Justiça, do Tribunal de Justiça Militar, do Ministério Público, da Defensoria Pública e do TCEMG são executadas em ações orçamentárias próprias mas que integram o FFP-MG.
 
-Também existe no âmbito da previdência social mineira o Instituto  de  Previdência  dos Servidores  Militares (IPSM). Diferentemente da maioria dos institutos de previdência, o plano de benefícios do IPSM não assegura o benefício de aposentadoria, reserva remunerada e reforma. 
+Também existe no âmbito da previdência social mineira o Instituto  de  Previdência  dos Servidores  Militares (IPSM). O plano de benefícios do IPSM não assegura o benefício de aposentadoria, reserva remunerada e reforma. 
 Esses benefícios previdenciários ficam a cargo do Tesouro Estadual e da contribuição para o custeio parcial de aposentadoria prevista na Lei 12.278/96 (alíquota de 3,5%) e são executadas pela PMMG, CBMMG e TJMMG.
 
 O Demonstrativo da Unidade de Gestão Previdenciária Integrada ([Ugeprevi](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LCP&num=100&comp=&ano=2007)) publicado no Volume I da [Lei Orçamentária Anual](http://www.seplag.mg.gov.br/pagina/planejamento-e-orcamento/lei-orcamentaria-anual-loa/lei-orcamentaria-anual-loa) também pode ser consultado para um resumo da distribuição dos recursos.
