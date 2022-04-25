@@ -5,9 +5,9 @@ O [Portal de Dados Abertos de Minas Gerais - PDA](https://dados.mg.gov.br/) disp
 
 São eles:
 
-    - [Cirurgias por porte](https://dados.mg.gov.br/dataset/cirurgias) de unidades hospitalar da FHEMIG, por ano e mês.
-    - [Clinical Risk Index for Babies - CRIB](https://dados.mg.gov.br/dataset/crib): escore que mensura o risco da mortalidade hospitalar de recém nato prematuro, baseado na gravidade clínica inicial.
-    - [APACHE](https://dados.mg.gov.br/dataset/apache): sistema médico de classificação que determina os índices de gravidade de um paciente internado em uma Unidade de Terapia Intensiva (UTI), a partir de critérios clínicos, fisiológicos e laboratoriais.
+- [Cirurgias por porte](https://dados.mg.gov.br/dataset/cirurgias) de unidades hospitalar da FHEMIG, por ano e mês.
+- [Clinical Risk Index for Babies - CRIB](https://dados.mg.gov.br/dataset/crib): escore que mensura o risco da mortalidade hospitalar de recém nato prematuro, baseado na gravidade clínica inicial.
+- [APACHE](https://dados.mg.gov.br/dataset/apache): sistema médico de classificação que determina os índices de gravidade de um paciente internado em uma Unidade de Terapia Intensiva (UTI), a partir de critérios clínicos, fisiológicos e laboratoriais.
 
 Fruto da colaboração entre Diretoria de Transparência Ativa - DTA/CGE e Diretoria de Contratualização e Gestão da Informação - DICGI/FHEMIG, estes conjuntos representam um marco para o PDA, que agora passa a contar com dados atualizados de gestão hospitalar oriundos dos sistemas gerenciais da FHEMIG.
 
