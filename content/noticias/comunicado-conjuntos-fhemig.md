@@ -15,7 +15,7 @@ Segundo a Subcontroladora de Integridade e Transparência da CGE-MG, Soraia Ferr
 
 Nesta mesma linha, Francisco Alves de Oliveira Júnior, Diretor Central de Transparência Ativa, afirma que o trabalho foi "Fruto da colaboração entre a CGE e a FHEMIG, a publicação desses conjuntos visa alinhar iniciativas dos órgãos para indução da transparência de informações de execução das políticas públicas. Esperamos que os dados possam ser utilizados pela comunidade e que possam ser mais uma possibilidade para o cidadão exercer seu papel no controle social", segundo Francisco Alves de Oliveira Júnior, Diretor Central de Transparência Ativa.
 
-“Essa iniciativa de abertura de dados realizada pela CGE está totalmente alinhada com o modo como tratamos os dados aqui na FHEMIG, com transparência, para informar adequadamente à sociedade os resultados apresentados pela Fundação.”, afirmou .....
+“Essa iniciativa de abertura de dados realizada pela CGE está totalmente alinhada com o modo como tratamos os dados aqui na FHEMIG, com transparência, para informar adequadamente à sociedade os resultados apresentados pela Fundação.”, afirmou (Alguém Fhemig)
 
 ## Dados Abertos
 
